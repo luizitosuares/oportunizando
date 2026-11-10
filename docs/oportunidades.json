@@ -1,0 +1,378 @@
+[
+ {
+  "t": "SBW Berlin Scholarship",
+  "k": "bolsa",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Berlim ou Potsdam, Alemanha",
+  "ing": 0,
+  "x": "Bolsa integral para graduação e mestrado em universidade de Berlim ou Potsdam. Cobre matrícula, acomodação/alimentação e subsídio mensal. Exige experiência profissional ou voluntária em ONGs ou organizações sem fins lucrativos. O bolsista deve retornar ao país de origem após os estudos. Inscrições abertas o ano todo.",
+  "u": "https://sbw.berlin/en/portfolio-items/sbw-berlin-scholarship",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Yale Young Global Scholars (YYGS) – bolsas para ensino médio",
+  "k": "bolsa",
+  "n": [
+   "em"
+  ],
+  "fim": "2027-01-06",
+  "loc": "Universidade Yale, Estados Unidos",
+  "ing": 0,
+  "x": "Bolsas por necessidade financeira, de até 100% do valor (incluindo a taxa de inscrição), para estudantes do ensino médio aceitos no curso de verão de duas semanas. O prazo da Early Action (15 de outubro) já passou. Resta a Regular Decision, até 6 de janeiro de 2027.",
+  "u": "http://globalscholars.yale.edu/",
+  "s": "Estudar Fora",
+  "af": [
+   "baixa"
+  ],
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Science Ambassador Scholarship (Cards Against Humanity)",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-12-15",
+  "loc": "Estados Unidos",
+  "ing": 0,
+  "x": "Cinco bolsas de US$ 20 mil para cobrir a anuidade de mulheres e pessoas não binárias que pretendam cursar graduação completa em áreas STEM nos EUA.",
+  "u": "https://www.scienceambassadorscholarship.org/stem/",
+  "s": "Estudar Fora",
+  "af": [
+   "mulher"
+  ],
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "American University Emerging Global Leader Scholarship (EGLS)",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": "2027-01-15",
+  "loc": "Washington D.C., Estados Unidos",
+  "ing": 0,
+  "x": "Bolsa para estudantes internacionais de graduação com interesse em voltar ao país de origem e dedicados à mudança cívica e social, especialmente em comunidades carentes. Exige a Common Application e uma candidatura específica com ensaios. Recomenda-se Regular Decision para ingresso no outono de 2027. Resultado até 1º de abril de 2027.",
+  "u": "http://www.american.edu/admissions/international/egls.cfm",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Bolsas Emile Boutmy – Sciences Po (graduação)",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": "2027-01-13",
+  "loc": "Paris, França",
+  "ing": 0,
+  "x": "Apoio financeiro de até 100% da anuidade ou 9.500 euros para estudantes internacionais aceitos pela primeira vez na graduação do Sciences Po. Considera critérios socioeconômicos e desempenho acadêmico. Renovável durante o programa.",
+  "u": "https://www.sciencespo.fr/students/en/fees-funding/financial-aid/emile-boutmy-scholarship",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Bolsas Emile Boutmy – Sciences Po (mestrado)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-11-29",
+  "loc": "Paris, França",
+  "ing": 0,
+  "x": "Prêmios de até 18.500 euros por ano para estudantes internacionais aceitos pela primeira vez no mestrado do Sciences Po. Considera critérios socioeconômicos e desempenho acadêmico. Renovável durante o programa. O prazo de 18 de outubro já passou. Resta o de 29 de novembro de 2026.",
+  "u": "https://www.sciencespo.fr/students/en/fees-funding/financial-aid/emile-boutmy-scholarship",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Bolsas de pós-graduação do DAAD (programa EPOS)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Alemanha",
+  "ing": 0,
+  "x": "Bolsas de pós-graduação em programas ligados ao desenvolvimento, voltadas a profissionais de destaque de países em desenvolvimento. Em geral oferecem valor mensal, passagens aéreas, seguro-saúde e curso preparatório de alemão. As datas limite variam conforme o programa.",
+  "u": "https://www.daad.org.br/pt/2024/03/29/programa-epos-concede-bolsas-na-area-de-desenvolvimento-sustentavel/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Bolsas Heinz Kühn Stiftung para jornalistas",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-11-30",
+  "loc": "Renânia do Norte-Vestfália, Alemanha",
+  "ing": 0,
+  "x": "Treinamento intensivo de até três meses para jornalistas de países em desenvolvimento, com curso de alemão, estágio em veículo de comunicação local e projeto de pesquisa. Cobre moradia, alimentação, materiais, passagens e auxílio de viagem. Há possibilidade de curso extra de alemão de até quatro meses.",
+  "u": "http://www.heinz-kuehn-stiftung.de/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-12-01",
+  "loc": "Hong Kong, China",
+  "ing": 0,
+  "x": "400 bolsas de doutorado para três anos de estudo e pesquisa. Oferecem auxílio anual de 344 mil HK$ (cerca de US$ 44.150) e fundo de pesquisa de 14.400 HK$ (cerca de US$ 1.840).",
+  "u": "http://cerg1.ugc.edu.hk/hkpfs/index.html",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Yenching Academy – bolsas de mestrado na Universidade de Pequim",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-11-30",
+  "loc": "Pequim, China",
+  "ing": 2,
+  "x": "Cerca de 120 bolsas integrais de mestrado interdisciplinar sobre a China, todo ministrado em inglês. Inclui aulas obrigatórias de chinês e viagens de estudo.",
+  "u": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Gates Cambridge Scholarships",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-12-08",
+  "loc": "Cambridge, Reino Unido",
+  "ing": 0,
+  "x": "Cerca de 80 bolsas integrais para estudantes internacionais de mestrado, doutorado ou pós-graduação de um ano (edição 2026/27). Cerca de 55 vagas para doutorado internacional. O prazo é 8 de dezembro de 2026 ou 6 de janeiro de 2027, conforme o curso.",
+  "u": "https://www.gatescambridge.org/apply/timeline/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Oxford-Weidenfeld and Hoffmann Scholarship and Leadership Programme",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Oxford, Reino Unido",
+  "ing": 0,
+  "x": "Bolsas integrais de mestrado para estudantes de países em desenvolvimento e economias emergentes. Incluem programa de desenvolvimento de liderança, mentoria de longo prazo e networking. O prazo segue o de cada mestrado, de dezembro a janeiro.",
+  "u": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/weidenfeld-hoffmann-scholarships-and-leadership-programme",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "ETH Zurich – Excellence Scholarship & Opportunity Programme",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-11-30",
+  "loc": "Zurique, Suíça",
+  "ing": 0,
+  "x": "Bolsas de mestrado para estudantes internacionais, com duração média de dois anos. Inscrições de 1º a 30 de novembro.",
+  "u": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee Verum Partners",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-11-15",
+  "loc": "SP, RJ, MG ou PA",
+  "ing": 2,
+  "x": "Programa de 6 meses em projetos estratégicos de infraestrutura, mineração, indústria e energia, com mentoria. Áreas: Planejamento/AWP, Excelência Operacional, Contratos e Information Management. Remuneração de R$ 5.651 e cartão Swile de R$ 1.017. Exige formação concluída entre 2022 e 2026 em Engenharias, Administração, Economia, Dados, Tecnologia ou áreas correlatas. As vagas de Contratos e Information Management são exclusivas para pessoas com deficiência.",
+  "u": "https://bit.ly/st-verum-partners",
+  "s": "Seja Trainee",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee QI Tech",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Pinheiros, São Paulo (SP), presencial",
+  "ing": 2,
+  "x": "Job rotation de 6 a 12 meses por todas as áreas de Operações, com prospecção de novos negócios, funil de vendas e reuniões com potenciais clientes. Exige até 18 meses de formado (ou conclusão prevista no semestre atual) em Administração, Economia, Engenharias, Relações Internacionais ou áreas correlatas.",
+  "u": "https://bit.ly/st-qitech",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Estágio iFood Gen AI",
+  "k": "estagio",
+  "n": [
+   "em",
+   "grad"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": 0,
+  "x": "Programa de 6 meses com capacitações em IA e aplicação em projetos reais, com mentoria e chance de imersão internacional. Há duas trilhas: AI Engineer (tecnologia) e AI Builder (negócios). A bolsa é de R$ 5.200 para estágio e R$ 7.000 para residência corporativa. Exige matrícula em curso superior ou técnico e disponibilidade de 6 horas por dia. Para estágio, conclusão da graduação prevista entre jul/2027 e jan/2029. Para residência, formação entre dez/2025 e dez/2026.",
+  "u": "https://bit.ly/st-ifood-gen-ai",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee Mottu",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Vagas em todo o país",
+  "ing": 0,
+  "x": "Programa de 2 anos com trilhas em Negócios e Operacional e possibilidade de se tornar sócio da empresa. A contratação é rápida. Aberto a graduados até dez/2026 em Engenharias, Matemática, Física, Administração, Economia, Estatística, Direito e cursos correlatos.",
+  "u": "https://bit.ly/st-mottu",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "EY FastPass – Consultoria (EY Parthenon)",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Belo Horizonte, Blumenau, Brasília, Campinas, Curitiba, Fortaleza, Goiânia, Porto Alegre, Recife, Ribeirão Preto, Rio de Janeiro, Salvador e São Paulo (híbrido ou presencial)",
+  "ing": 0,
+  "x": "Atuação em consultoria estratégica: estratégia, M&A, Corporate Finance, Due Diligence e Transformação Empresarial, em equipes multidisciplinares. Não há prazo limite de inscrição.",
+  "u": "https://bit.ly/st-ey-parthenon",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee Futures Softplan",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-11-13",
+  "loc": "Florianópolis (SC), híbrido",
+  "ing": 0,
+  "x": "Jornada de 18 meses com foco em Inteligência Artificial, conectando consultoria de negócios, construção de soluções e gestão de projetos. Salário de R$ 7 mil. Exige estar a partir da 5ª fase da graduação ou formado há até 2 anos, morar na Grande Florianópolis ou ter interesse em se mudar, e apresentar ao menos um projeto em que usou IA na prática.",
+  "u": "https://sejatrainee.com.br/trainee-softplan-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee Cargill",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-11-14",
+  "loc": "São Paulo (SP), Ilhéus (BA), Primavera do Leste (MT), Três Lagoas (MS) e Passo Fundo (RS)",
+  "ing": 1,
+  "x": "Trilha intensiva de desenvolvimento, com supervisores, mentores, metas individuais e gestão de projetos. Vagas em áreas comerciais, financeiras e industriais. Exige graduação concluída ou com conclusão prevista entre jan/2025 e dez/2026 em Administração, Agronomia, Economia, Engenharias e outros cursos. O nível de inglês varia conforme a vaga.",
+  "u": "https://sejatrainee.com.br/trainee-cargill-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee Grant Thornton",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-11-15",
+  "loc": "Brasil (trabalho híbrido)",
+  "ing": 0,
+  "x": "Oportunidades em Auditoria, Consultoria e Tributos, com aprendizado contínuo e exposição internacional. Exige ser estudante de bacharelado ou licenciatura (a partir do 2º semestre) ou formado em Ciências Contábeis, Administração, Economia, Direito, Engenharias e cursos de Tecnologia, além de disponibilidade para viajar.",
+  "u": "https://sejatrainee.com.br/trainee-grant-thornton-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee ACCIONA iXPA",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "SP, ES, PR ou PB",
+  "ing": 2,
+  "x": "Atuação em grandes projetos de infraestrutura combinada com pós-graduação em Gestão de Projetos pela USP e pela Universidad Politécnica de Madrid. São mais de 300 horas de especialização em nove meses. Exige formação entre dez/2022 e dez/2026, preferencialmente em Engenharia, Arquitetura ou áreas STEM.",
+  "u": "https://bit.ly/st-acciona",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee Kinross",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Paracatu (MG), presencial",
+  "ing": 2,
+  "x": "Programa de 24 meses em projetos estratégicos, com mentoria e contato com projetos internacionais do grupo. Benefícios: plano de saúde e odontológico, previdência privada e participação nos resultados. Exige Engenharia de Minas, Geológica, Metalúrgica ou Mecânica, ou Geologia, com graduação concluída a partir de dez/2023 ou conclusão prevista até dez/2026, e 1 a 2 anos de experiência na área.",
+  "u": "https://sejatrainee.com.br/kinross-uma-das-maiores-produtoras-de-ouro-do-brasil-abre-trainee-para-engenheiros/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee SYDLE 2027",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Belo Horizonte (MG), presencial",
+  "ing": 0,
+  "x": "Programa para estudantes de cursos de longa duração e recém-formados. Carga de 20h a 30h semanais para alunos e 40h para formados. Não exige experiência prévia. O processo tem 3 etapas, com testes aplicados em BH, Lavras, São João del-Rei e Viçosa. O prazo não foi informado pela empresa.",
+  "u": "https://sejatrainee.com.br/trainee-sydle-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Trainee Grupo Solví 2027",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": "2027-01-15",
+  "loc": "Seis estados (não detalhados no texto)",
+  "ing": 0,
+  "x": "Programa com 19 trilhas distribuídas em seis estados, em um dos maiores grupos de soluções ambientais da América Latina. O texto traz o prazo como 15 de janeiro, sem o ano; o ano de 2027 foi inferido do nome do programa.",
+  "u": "https://sejatrainee.com.br/grupo-solvi-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Programa Trainee AMH (Fábrica de Líderes)",
+  "k": "emprego",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": 0,
+  "x": "Programa de trainee de empresa de saúde presente em 8 estados, com salário de R$ 6.400.",
+  "u": "https://sejatrainee.com.br/fabrica-de-lideres-amh-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-10"
+ }
+]
