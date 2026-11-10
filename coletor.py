@@ -83,8 +83,13 @@ def estruturar(fonte: dict, texto: str, links: list):
     r = cliente.messages.create(
         model=MODELO, max_tokens=8000, messages=[{"role": "user", "content": pedido}]
     )
-    bruto = re.sub(r"^```(?:json)?|```$", "", r.content[0].text.strip(), flags=re.M).strip()
-    return json.loads(bruto)
+    # a resposta pode ter blocos de raciocínio antes do texto: junta só os blocos de texto
+    texto = "".join(getattr(bl, "text", "") for bl in r.content if getattr(bl, "type", "") == "text")
+    bruto = re.sub(r"^```(?:json)?|```$", "", texto.strip(), flags=re.M).strip()
+    i, j = bruto.find("["), bruto.rfind("]")
+    if i < 0 or j < i:
+        return []  # nada encontrado nesta página
+    return json.loads(bruto[i : j + 1])
 
 
 def main():
