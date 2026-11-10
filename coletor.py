@@ -25,7 +25,7 @@ from urllib.parse import urlparse
 
 from playwright.sync_api import sync_playwright
 
-UA = "RotaOportunidadesBot/0.1 (projeto de extensao; contato: luizito.dev@gmail.com)"
+UA = "RotaOportunidadesBot/0.1 (projeto de extensao; contato: SEU_EMAIL_AQUI)"
 MODELO = os.environ.get("MODELO", "claude-sonnet-5-5")
 PAUSA_SEGUNDOS = 5  # educação com os servidores: uma página a cada 5 s
 os.makedirs("saida", exist_ok=True)
@@ -52,7 +52,11 @@ def permitido(url: str) -> bool:
 
 
 def renderizar(pagina, url: str):
-    pagina.goto(url, wait_until="networkidle", timeout=60000)
+    pagina.goto(url, wait_until="domcontentloaded", timeout=60000)
+    try:  # espera o conteúdo dinâmico, mas sem travar em sites que nunca "assentam"
+        pagina.wait_for_load_state("networkidle", timeout=15000)
+    except Exception:
+        pass
     for _ in range(6):  # rolagem para disparar carregamento sob demanda
         pagina.mouse.wheel(0, 3000)
         time.sleep(1.2)
