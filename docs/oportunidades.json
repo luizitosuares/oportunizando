@@ -1,5 +1,689 @@
 [
  {
+  "t": "Gestão financeira",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de gestão financeira. Duração de 10h.",
+  "u": "https://loja.sebrae.com.br/gest-o-financeira-1-372000026927",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Marketing digital e redes sociais",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de marketing digital e redes sociais. Duração de 7h.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-e-redes-sociais-1-372000114127",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Gestão de pessoas",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de gestão de pessoas. Duração de 8h.",
+  "u": "https://loja.sebrae.com.br/gest-o-de-pessoas-1-371440100237",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Marketing digital para sua empresa: primeiros passos",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de marketing digital para empresas. Duração de 9h.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-para-sua-empresa-primeiros-passos-1-372000031607",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Atendimento ao cliente",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de atendimento ao cliente. Duração de 8h.",
+  "u": "https://loja.sebrae.com.br/atendimento-ao-cliente-1-372000017766",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Como definir preço de venda",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre como definir o preço de venda. Duração de 6h.",
+  "u": "https://loja.sebrae.com.br/como-definir-o-preco-de-venda-1-371440103446",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Aprender a empreender",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de empreendedorismo. Duração de 16h.",
+  "u": "https://loja.sebrae.com.br/aprender-a-empreender-1-372000001028",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Inteligência Emocional",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de inteligência emocional. Duração de 15h.",
+  "u": "https://loja.sebrae.com.br/inteligencia-emocional-1-372000069335",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Como controlar o fluxo de caixa",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre controle do fluxo de caixa. Duração de 10h.",
+  "u": "https://loja.sebrae.com.br/como-controlar-o-fluxo-de-caixa-1-2151",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Marketing digital: estratégias e práticas para conquistar clientes",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de estratégias e práticas de marketing digital. Duração de 8h.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-estrategias-e-praticas-para-conquistar-clientes-1-372000110038",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Curso de Exportação",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre exportação. Duração de 20h.",
+  "u": "https://loja.sebrae.com.br/curso-de-exportac-o-1-a0jbl000001h2u2uaa",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Dropshipping",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre dropshipping. Duração de 7h.",
+  "u": "https://loja.sebrae.com.br/dropshipping-1-a0jv2000004pwbtmag",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Atendimento inclusivo PCD e neurodiversidade",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre atendimento inclusivo a PCD e neurodiversidade. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/atendimento-inclusivo-pcd-e-neurodiversidade-1-a0jv2000003uisfmaa",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Análise de resultados em marketing digital",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre análise de resultados em marketing digital. Duração de 7h.",
+  "u": "https://loja.sebrae.com.br/analise-de-resultados-em-marketing-digital-1-372000114120",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Marketing digital para sua empresa: equipe comercial",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de marketing digital voltado à equipe comercial. Duração de 10h.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-para-sua-empresa-equipe-comercial-1-372000031611",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "O que fazer para começar a vender online?",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre como começar a vender online. Duração de 7h.",
+  "u": "https://loja.sebrae.com.br/o-que-fazer-para-comecar-a-vender-online-1-3713589375",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Marketing digital para sua empresa: reforçando sua presença",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre como reforçar a presença digital da empresa.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-para-sua-empresa-reforcando-sua-presenca-1-377235868",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Customer success - Como conquistar e manter clientes",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre customer success, para conquistar e manter clientes. Duração de 10h.",
+  "u": "https://loja.sebrae.com.br/customer-success-como-conquistar-e-manter-clientes-1-372000017996",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Passo a passo para alcançar o sucesso financeiro",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre sucesso financeiro. Duração de 1h.",
+  "u": "https://loja.sebrae.com.br/passo-a-passo-para-alcancar-o-sucesso-financeiro-1-372000019237",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Faça suas redes bombarem com o Canva",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre o uso do Canva nas redes sociais. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/faca-suas-redes-bombarem-com-o-canva-1-372000090794",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Neuromarketing",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de neuromarketing. Duração de 12h.",
+  "u": "https://loja.sebrae.com.br/neuromarketing-1-312000052125",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Marketing nas Mídias Sociais",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de marketing nas mídias sociais. Duração de 10h.",
+  "u": "https://loja.sebrae.com.br/marketing-nas-midias-sociais-1-312000052129",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Marketing e Negociação Internacional",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de marketing e negociação internacional. Duração de 8h.",
+  "u": "https://loja.sebrae.com.br/marketing-e-negociac-o-internacional-1-312000051012",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Arquétipos de marca",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre arquétipos de marca. Duração de 10h.",
+  "u": "https://loja.sebrae.com.br/arquetipos-de-marca-1-372000067318",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Avaliando as vendas do seu negócio",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre avaliação das vendas do negócio. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/avaliando-as-vendas-do-seu-negocio-1-302000002226",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Comunicação no processo de vendas para pequenos negócios",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre comunicação no processo de vendas de pequenos negócios. Duração de 7h.",
+  "u": "https://loja.sebrae.com.br/comunicac-o-no-processo-de-vendas-para-pequenos-negocios-1-372000053300",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Gestão estratégica para comércio eletrônico",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de gestão estratégica para comércio eletrônico. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/gest-o-estrategica-para-comercio-eletronico-1-372000026926",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Reforma Tributária",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre a Reforma Tributária. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/reforma-tributaria-1-372000123006",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Planejamento financeiro para acesso ao crédito",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de planejamento financeiro para acesso ao crédito. Duração de 10h.",
+  "u": "https://loja.sebrae.com.br/planejamento-financeiro-para-acesso-ao-credito-1-372000113579",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Para onde vai meu dinheiro?",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre controle do dinheiro. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/para-onde-vai-meu-dinheiro-1-3712431840",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Gestão Financeira - Parceria BNB",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de gestão financeira, em parceria com o BNB. Duração de 6h.",
+  "u": "https://loja.sebrae.com.br/gest-o-financeira-parceria-bnb-1-3712442929",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Estratégia financeira para o crescimento",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de estratégia financeira para o crescimento do negócio. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/estrategia-financeira-para-o-crescimento-1-372000018036",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Modelagem financeira para startups",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de modelagem financeira para startups. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/modelagem-financeira-para-startups-1-372000019235",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Captação de recursos - DESCOMPLICA",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre captação de recursos. Duração de 24h.",
+  "u": "https://loja.sebrae.com.br/captac-o-de-recursos-descomplica-1-372000075989",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Controle da movimentação financeira",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre controle da movimentação financeira. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/controle-da-movimentac-o-financeira-1-302000002221",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Fluxo de caixa como ferramenta de gestão para o seu negócio",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre o fluxo de caixa como ferramenta de gestão. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/fluxo-de-caixa-como-ferramenta-de-gest-o-para-o-seu-negocio-1-302000001660",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Renegociação de dívidas",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre renegociação de dívidas. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/renegociac-o-de-dividas-1-372000069343",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Fluxo de Caixa para Beleza",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de fluxo de caixa para negócios de beleza. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/fluxo-de-caixa-para-beleza-1-372000069340",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Fluxo de caixa para moda",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de fluxo de caixa para negócios de moda. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/fluxo-de-caixa-para-moda-1-372000069339",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Preço de vendas para beleza",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre preço de vendas para negócios de beleza. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/preco-de-vendas-para-beleza-1-372000069337",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Preço de vendas para alimentação fora do lar",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre preço de vendas para alimentação fora do lar. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/preco-de-vendas-para-alimentac-o-fora-do-lar-1-372000069338",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Preço de vendas para moda",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre preço de vendas para negócios de moda. Duração de 3h.",
+  "u": "https://loja.sebrae.com.br/preco-de-vendas-para-moda-1-372000069336",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Custos para produzir no campo",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre custos de produção no campo. Duração de 4h.",
+  "u": "https://loja.sebrae.com.br/custos-para-produzir-no-campo-1-372000026895",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Educação financeira empresarial",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito de educação financeira empresarial. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/educac-o-financeira-empresarial-1-372000018001",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Microcrédito consciente",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online",
+  "ing": 0,
+  "x": "Curso online gratuito sobre microcrédito consciente. Duração de 4h.",
+  "u": "https://loja.sebrae.com.br/microcredito-consciente-1-372000027024",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Faça da comunicação um recurso para melhorar suas vendas - chatbot",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre comunicação e vendas. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/faca-da-comunicac-o-um-recurso-para-melhorar-suas-vendas-chatbot-372000031521",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Presença digital: como construir a sua e qual a importância - chatbot",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre presença digital. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/presenca-digital-como-construir-a-sua-e-qual-a-importancia-chatbot-372000031448",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Curso de gestão - Indicadores para seu negócio",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre indicadores de gestão. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/curso-de-gest-o-indicadores-para-seu-negocio-372000005125",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Formalização da propriedade rural: por onde começar? - Chatbot",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre formalização da propriedade rural. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/formalizac-o-da-propriedade-rural-por-onde-comecar-chatbot-372000021558",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Aprenda a vender pela internet com marketing digital",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre vendas pela internet. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/aprenda-a-vender-pela-internet-com-marketing-digital-372000005127",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Alcance seu cliente melhorando a divulgação do seu negócio - chatbot",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre divulgação do negócio. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/alcance-seu-cliente-melhorando-a-divulgac-o-do-seu-negocio-chatbot-372000032280",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Conhecendo e valorizando o seu cliente",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre conhecer e valorizar o cliente. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/conhecendo-e-valorizando-o-seu-cliente-372000005119",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "O caminho para a formalização: benefícios e responsabilidades - Chatbot",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre formalização, benefícios e responsabilidades. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/o-caminho-para-a-formalizac-o-beneficios-e-responsabilidades-chatbot-372000005128",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "A formação de preço para o meu tipo de negócio - Chatbot",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre formação de preço. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/a-formac-o-de-preco-para-o-meu-tipo-de-negocio-chatbot-372000005116",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Quando e como captar recursos para negócios criativos? - Chatbot",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre captação de recursos para negócios criativos. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/quando-e-como-captar-recursos-para-negocios-criativos-chatbot-372000018677",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Faça do Facebook uma ferramenta para aumentar as vendas - chatbot",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre uso do Facebook para vendas. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/faca-do-facebook-uma-ferramenta-para-aumentar-as-vendas-chatbot-372000032283",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
+  "t": "Desenquadramento do MEI e novas possibilidades de tributação",
+  "k": "curso",
+  "n": [],
+  "fim": null,
+  "loc": "Online (WhatsApp/Telegram)",
+  "ing": 0,
+  "x": "Curso autoinstrucional gratuito via WhatsApp ou Telegram sobre desenquadramento do MEI e tributação. Duração de 2h.",
+  "u": "https://loja.sebrae.com.br/desenquadramento-do-mei-e-novas-possibilidades-de-tributac-o-372000005122",
+  "s": "Sebrae",
+  "coletado_em": "2026-11-10"
+ },
+ {
   "t": "SBW Berlin Scholarship",
   "k": "bolsa",
   "n": [
@@ -7,15 +691,15 @@
    "pos"
   ],
   "fim": null,
-  "loc": "Berlim ou Potsdam, Alemanha",
+  "loc": "Berlim e Potsdam, Alemanha",
   "ing": 0,
-  "x": "Bolsa integral para graduação e mestrado em universidade de Berlim ou Potsdam. Cobre matrícula, acomodação/alimentação e subsídio mensal. Exige experiência profissional ou voluntária em ONGs ou organizações sem fins lucrativos. O bolsista deve retornar ao país de origem após os estudos. Inscrições abertas o ano todo.",
+  "x": "Bolsa integral (matrícula, acomodação/alimentação e subsídio mensal) para graduação e mestrado em universidades de Berlim ou Potsdam. Exige experiência profissional ou voluntária em ONGs ou organizações sem fins lucrativos. O aluno deve voltar ao país de origem após os estudos. Inscrições abertas o ano todo.",
   "u": "https://sbw.berlin/en/portfolio-items/sbw-berlin-scholarship",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
  },
  {
-  "t": "Yale Young Global Scholars (YYGS) – bolsas para ensino médio",
+  "t": "Yale Young Global Scholars (YYGS) – bolsas para o Ensino Médio",
   "k": "bolsa",
   "n": [
    "em"
@@ -23,7 +707,7 @@
   "fim": "2027-01-06",
   "loc": "Universidade Yale, Estados Unidos",
   "ing": 0,
-  "x": "Bolsas por necessidade financeira, de até 100% do valor (incluindo a taxa de inscrição), para estudantes do ensino médio aceitos no curso de verão de duas semanas. O prazo da Early Action (15 de outubro) já passou. Resta a Regular Decision, até 6 de janeiro de 2027.",
+  "x": "Bolsas por necessidade financeira, de até 100% do valor, para alunos do ensino médio aceitos no curso de verão de duas semanas YYGS. O prazo Early Action (15/10) já passou; o Regular Decision vai até 6 de janeiro de 2027.",
   "u": "http://globalscholars.yale.edu/",
   "s": "Estudar Fora",
   "af": [
@@ -40,7 +724,7 @@
   "fim": "2026-12-15",
   "loc": "Estados Unidos",
   "ing": 0,
-  "x": "Cinco bolsas de US$ 20 mil para cobrir a anuidade de mulheres e pessoas não binárias que pretendam cursar graduação completa em áreas STEM nos EUA.",
+  "x": "Cinco bolsas de 20 mil dólares para mulheres e pessoas não binárias que queiram cursar a graduação completa em áreas STEM nos EUA, para cobrir custos de anuidade.",
   "u": "https://www.scienceambassadorscholarship.org/stem/",
   "s": "Estudar Fora",
   "af": [
@@ -57,7 +741,7 @@
   "fim": "2027-01-15",
   "loc": "Washington D.C., Estados Unidos",
   "ing": 0,
-  "x": "Bolsa para estudantes internacionais de graduação com interesse em voltar ao país de origem e dedicados à mudança cívica e social, especialmente em comunidades carentes. Exige a Common Application e uma candidatura específica com ensaios. Recomenda-se Regular Decision para ingresso no outono de 2027. Resultado até 1º de abril de 2027.",
+  "x": "Bolsa para estudantes internacionais de graduação interessados em voltar ao país de origem e dedicados à mudança cívica e social, especialmente em comunidades carentes. Exige a Common Application e a candidatura específica para a EGLS (com ensaios), para ingresso no outono de 2027. Resultado até 1º de abril de 2027.",
   "u": "http://www.american.edu/admissions/international/egls.cfm",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
@@ -71,7 +755,7 @@
   "fim": "2027-01-13",
   "loc": "Paris, França",
   "ing": 0,
-  "x": "Apoio financeiro de até 100% da anuidade ou 9.500 euros para estudantes internacionais aceitos pela primeira vez na graduação do Sciences Po. Considera critérios socioeconômicos e desempenho acadêmico. Renovável durante o programa.",
+  "x": "Apoio financeiro para estudantes internacionais aceitos na graduação do Sciences Po que se candidatam pela primeira vez. Cobre até 100% da anuidade ou 9.500 euros. A seleção considera critérios socioeconômicos e desempenho acadêmico. A bolsa é renovável durante o programa.",
   "u": "https://www.sciencespo.fr/students/en/fees-funding/financial-aid/emile-boutmy-scholarship",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
@@ -85,13 +769,13 @@
   "fim": "2026-11-29",
   "loc": "Paris, França",
   "ing": 0,
-  "x": "Prêmios de até 18.500 euros por ano para estudantes internacionais aceitos pela primeira vez no mestrado do Sciences Po. Considera critérios socioeconômicos e desempenho acadêmico. Renovável durante o programa. O prazo de 18 de outubro já passou. Resta o de 29 de novembro de 2026.",
+  "x": "Prêmios de até 18.500 euros por ano para estudantes internacionais aceitos no mestrado do Sciences Po que se candidatam pela primeira vez. A seleção considera critérios socioeconômicos e desempenho acadêmico. A bolsa é renovável durante o programa.",
   "u": "https://www.sciencespo.fr/students/en/fees-funding/financial-aid/emile-boutmy-scholarship",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
  },
  {
-  "t": "Bolsas de pós-graduação do DAAD (programa EPOS)",
+  "t": "DAAD EPOS – bolsas de pós-graduação em desenvolvimento",
   "k": "bolsa",
   "n": [
    "pos"
@@ -99,7 +783,7 @@
   "fim": null,
   "loc": "Alemanha",
   "ing": 0,
-  "x": "Bolsas de pós-graduação em programas ligados ao desenvolvimento, voltadas a profissionais de destaque de países em desenvolvimento. Em geral oferecem valor mensal, passagens aéreas, seguro-saúde e curso preparatório de alemão. As datas limite variam conforme o programa.",
+  "x": "Bolsas do DAAD para pós-graduação em programas relacionados ao desenvolvimento, voltadas a profissionais de destaque de países em desenvolvimento. Oferecem valor mensal, passagens aéreas, seguro-saúde e curso preparatório de alemão. As datas limite variam conforme o programa.",
   "u": "https://www.daad.org.br/pt/2024/03/29/programa-epos-concede-bolsas-na-area-de-desenvolvimento-sustentavel/",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
@@ -107,13 +791,11 @@
  {
   "t": "Bolsas Heinz Kühn Stiftung para jornalistas",
   "k": "bolsa",
-  "n": [
-   "pos"
-  ],
+  "n": [],
   "fim": "2026-11-30",
   "loc": "Renânia do Norte-Vestfália, Alemanha",
   "ing": 0,
-  "x": "Treinamento intensivo de até três meses para jornalistas de países em desenvolvimento, com curso de alemão, estágio em veículo de comunicação local e projeto de pesquisa. Cobre moradia, alimentação, materiais, passagens e auxílio de viagem. Há possibilidade de curso extra de alemão de até quatro meses.",
+  "x": "Treinamento intensivo de até três meses para jornalistas de países em desenvolvimento, com curso de alemão, estágio em veículo de comunicação local e projeto de pesquisa. Cobre despesas do treinamento, moradia, alimentação e passagens aéreas. Há possibilidade de curso extra de alemão de até quatro meses.",
   "u": "http://www.heinz-kuehn-stiftung.de/",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
@@ -127,13 +809,13 @@
   "fim": "2026-12-01",
   "loc": "Hong Kong, China",
   "ing": 0,
-  "x": "400 bolsas de doutorado para três anos de estudo e pesquisa. Oferecem auxílio anual de 344 mil HK$ (cerca de US$ 44.150) e fundo de pesquisa de 14.400 HK$ (cerca de US$ 1.840).",
+  "x": "400 bolsas de doutorado nas universidades de Hong Kong, cobrindo três anos de estudo e pesquisa. Auxílio anual de 344 mil HKD (cerca de 44.150 dólares) e fundo de pesquisa de 14.400 HKD.",
   "u": "http://cerg1.ugc.edu.hk/hkpfs/index.html",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
  },
  {
-  "t": "Yenching Academy – bolsas de mestrado na Universidade de Pequim",
+  "t": "Yenching Academy – bolsas de mestrado (Universidade de Pequim)",
   "k": "bolsa",
   "n": [
    "pos"
@@ -141,13 +823,13 @@
   "fim": "2026-11-30",
   "loc": "Pequim, China",
   "ing": 2,
-  "x": "Cerca de 120 bolsas integrais de mestrado interdisciplinar sobre a China, todo ministrado em inglês. Inclui aulas obrigatórias de chinês e viagens de estudo.",
+  "x": "Cerca de 120 bolsas integrais para mestrado interdisciplinar sobre a China, ministrado em inglês. Inclui aulas obrigatórias de chinês e viagens de estudo, com optativas em diversas áreas.",
   "u": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
  },
  {
-  "t": "Gates Cambridge Scholarships",
+  "t": "Gates Cambridge Scholarships 2026/27",
   "k": "bolsa",
   "n": [
    "pos"
@@ -155,7 +837,7 @@
   "fim": "2026-12-08",
   "loc": "Cambridge, Reino Unido",
   "ing": 0,
-  "x": "Cerca de 80 bolsas integrais para estudantes internacionais de mestrado, doutorado ou pós-graduação de um ano (edição 2026/27). Cerca de 55 vagas para doutorado internacional. O prazo é 8 de dezembro de 2026 ou 6 de janeiro de 2027, conforme o curso.",
+  "x": "Cerca de 80 bolsas integrais para mestrado, doutorado ou pós-graduação de um ano para estudantes internacionais. Cerca de 55 vagas de doutorado para internacionais. O prazo é 8 de dezembro de 2026 ou 6 de janeiro de 2027, conforme o curso.",
   "u": "https://www.gatescambridge.org/apply/timeline/",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
@@ -169,7 +851,7 @@
   "fim": null,
   "loc": "Oxford, Reino Unido",
   "ing": 0,
-  "x": "Bolsas integrais de mestrado para estudantes de países em desenvolvimento e economias emergentes. Incluem programa de desenvolvimento de liderança, mentoria de longo prazo e networking. O prazo segue o de cada mestrado, de dezembro a janeiro.",
+  "x": "Bolsas integrais de mestrado em Oxford para estudantes de países em desenvolvimento e economias emergentes, combinadas com programa de liderança, mentoria e networking. O prazo é a data limite de cada mestrado, entre dezembro e janeiro.",
   "u": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/weidenfeld-hoffmann-scholarships-and-leadership-programme",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
@@ -183,7 +865,7 @@
   "fim": "2026-11-30",
   "loc": "Zurique, Suíça",
   "ing": 0,
-  "x": "Bolsas de mestrado para estudantes internacionais, com duração média de dois anos. Inscrições de 1º a 30 de novembro.",
+  "x": "Bolsas de mestrado para estudantes internacionais, com duração média de dois anos. Inscrições entre 1º e 30 de novembro.",
   "u": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
   "s": "Estudar Fora",
   "coletado_em": "2026-11-10"
@@ -197,7 +879,7 @@
   "fim": "2026-11-15",
   "loc": "SP, RJ, MG ou PA",
   "ing": 2,
-  "x": "Programa de 6 meses em projetos estratégicos de infraestrutura, mineração, indústria e energia, com mentoria. Áreas: Planejamento/AWP, Excelência Operacional, Contratos e Information Management. Remuneração de R$ 5.651 e cartão Swile de R$ 1.017. Exige formação concluída entre 2022 e 2026 em Engenharias, Administração, Economia, Dados, Tecnologia ou áreas correlatas. As vagas de Contratos e Information Management são exclusivas para pessoas com deficiência.",
+  "x": "Programa de 6 meses em projetos estratégicos, com mentoria, nas áreas de Planejamento/AWP, Excelência Operacional, Contratos e Information Management. Remuneração de R$ 5.651 e cartão Swile de R$ 1.017. Exige formação concluída entre 2022 e 2026 em Engenharias, Administração, Economia, Dados, Tecnologia ou áreas correlatas. As vagas de Contratos e Information Management são exclusivas para pessoas com deficiência.",
   "u": "https://bit.ly/st-verum-partners",
   "s": "Seja Trainee",
   "af": [
@@ -212,9 +894,9 @@
    "grad"
   ],
   "fim": null,
-  "loc": "Pinheiros, São Paulo (SP), presencial",
+  "loc": "São Paulo (SP) – Pinheiros, presencial",
   "ing": 2,
-  "x": "Job rotation de 6 a 12 meses por todas as áreas de Operações, com prospecção de novos negócios, funil de vendas e reuniões com potenciais clientes. Exige até 18 meses de formado (ou conclusão prevista no semestre atual) em Administração, Economia, Engenharias, Relações Internacionais ou áreas correlatas.",
+  "x": "Job rotation de 6 a 12 meses por todas as áreas de Operações, com atuação na prospecção de negócios e no funil de vendas. Exige até 18 meses de formado ou conclusão prevista para o semestre atual em Administração, Economia, Engenharias, Relações Internacionais ou áreas correlatas.",
   "u": "https://bit.ly/st-qitech",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
@@ -223,13 +905,12 @@
   "t": "Estágio iFood Gen AI",
   "k": "estagio",
   "n": [
-   "em",
    "grad"
   ],
   "fim": null,
   "loc": null,
   "ing": 0,
-  "x": "Programa de 6 meses com capacitações em IA e aplicação em projetos reais, com mentoria e chance de imersão internacional. Há duas trilhas: AI Engineer (tecnologia) e AI Builder (negócios). A bolsa é de R$ 5.200 para estágio e R$ 7.000 para residência corporativa. Exige matrícula em curso superior ou técnico e disponibilidade de 6 horas por dia. Para estágio, conclusão da graduação prevista entre jul/2027 e jan/2029. Para residência, formação entre dez/2025 e dez/2026.",
+  "x": "Programa de 6 meses com capacitações em IA aplicadas a projetos reais, com mentoria e chance de imersão internacional. Tem duas trilhas: AI Engineer (tecnologia) e AI Builder (negócios). A bolsa é de R$ 5.200 para estágio e de R$ 7.000 para residência corporativa. Exige matrícula em curso superior ou técnico e disponibilidade de 6 horas por dia.",
   "u": "https://bit.ly/st-ifood-gen-ai",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
@@ -243,13 +924,13 @@
   "fim": null,
   "loc": "Vagas em todo o país",
   "ing": 0,
-  "x": "Programa de 2 anos com trilhas em Negócios e Operacional e possibilidade de se tornar sócio da empresa. A contratação é rápida. Aberto a graduados até dez/2026 em Engenharias, Matemática, Física, Administração, Economia, Estatística, Direito e cursos correlatos.",
+  "x": "Programa de 2 anos com trilhas em Negócios e Operacional e possibilidade de virar sócio da empresa. Aberto a graduados até dezembro de 2026 em Engenharias, Matemática, Física, Administração, Economia, Estatística, Direito e cursos correlatos.",
   "u": "https://bit.ly/st-mottu",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
  },
  {
-  "t": "EY FastPass – Consultoria (EY Parthenon)",
+  "t": "EY Fastpass – Consultoria (EY Parthenon)",
   "k": "emprego",
   "n": [
    "grad"
@@ -257,7 +938,7 @@
   "fim": null,
   "loc": "Belo Horizonte, Blumenau, Brasília, Campinas, Curitiba, Fortaleza, Goiânia, Porto Alegre, Recife, Ribeirão Preto, Rio de Janeiro, Salvador e São Paulo (híbrido ou presencial)",
   "ing": 0,
-  "x": "Atuação em consultoria estratégica: estratégia, M&A, Corporate Finance, Due Diligence e Transformação Empresarial, em equipes multidisciplinares. Não há prazo limite de inscrição.",
+  "x": "Oportunidade em consultoria estratégica, em projetos de estratégia, M&A, Corporate Finance, Due Diligence e Transformação Empresarial. Não há prazo limite de inscrição.",
   "u": "https://bit.ly/st-ey-parthenon",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
@@ -271,7 +952,7 @@
   "fim": "2026-11-13",
   "loc": "Florianópolis (SC), híbrido",
   "ing": 0,
-  "x": "Jornada de 18 meses com foco em Inteligência Artificial, conectando consultoria de negócios, construção de soluções e gestão de projetos. Salário de R$ 7 mil. Exige estar a partir da 5ª fase da graduação ou formado há até 2 anos, morar na Grande Florianópolis ou ter interesse em se mudar, e apresentar ao menos um projeto em que usou IA na prática.",
+  "x": "Jornada de 18 meses com foco em Inteligência Artificial, em papel generalista que liga negócio e IA. Salário de R$ 7 mil. Exige estar a partir da 5ª fase da graduação ou ter se formado há até 2 anos, morar na Grande Florianópolis ou ter interesse em se mudar e apresentar ao menos um projeto em que usou IA na prática.",
   "u": "https://sejatrainee.com.br/trainee-softplan-vagas-abertas/",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
@@ -285,7 +966,7 @@
   "fim": "2026-11-14",
   "loc": "São Paulo (SP), Ilhéus (BA), Primavera do Leste (MT), Três Lagoas (MS) e Passo Fundo (RS)",
   "ing": 1,
-  "x": "Trilha intensiva de desenvolvimento, com supervisores, mentores, metas individuais e gestão de projetos. Vagas em áreas comerciais, financeiras e industriais. Exige graduação concluída ou com conclusão prevista entre jan/2025 e dez/2026 em Administração, Agronomia, Economia, Engenharias e outros cursos. O nível de inglês varia conforme a vaga.",
+  "x": "Trilha intensiva de desenvolvimento, com supervisores, mentores, metas individuais e gestão de projetos, em áreas comerciais, financeiras e industriais. Exige graduação concluída ou com conclusão prevista entre janeiro de 2025 e dezembro de 2026, em cursos como Administração, Agronomia, Economia e Engenharias. O nível de inglês varia conforme a vaga.",
   "u": "https://sejatrainee.com.br/trainee-cargill-vagas-abertas/",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
@@ -297,9 +978,9 @@
    "grad"
   ],
   "fim": "2026-11-15",
-  "loc": "Brasil (trabalho híbrido)",
+  "loc": null,
   "ing": 0,
-  "x": "Oportunidades em Auditoria, Consultoria e Tributos, com aprendizado contínuo e exposição internacional. Exige ser estudante de bacharelado ou licenciatura (a partir do 2º semestre) ou formado em Ciências Contábeis, Administração, Economia, Direito, Engenharias e cursos de Tecnologia, além de disponibilidade para viajar.",
+  "x": "Programa com oportunidades em Auditoria, Consultoria e Tributos, em trabalho híbrido e com exposição internacional. Para estudantes de bacharelado ou licenciatura (a partir do 2º semestre) ou formados em Ciências Contábeis, Administração, Economia, Direito, Engenharias e cursos de Tecnologia. Exige disponibilidade para viajar.",
   "u": "https://sejatrainee.com.br/trainee-grant-thornton-vagas-abertas/",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
@@ -308,13 +989,12 @@
   "t": "Trainee ACCIONA iXPA",
   "k": "emprego",
   "n": [
-   "grad",
-   "pos"
+   "grad"
   ],
   "fim": null,
   "loc": "SP, ES, PR ou PB",
   "ing": 2,
-  "x": "Atuação em grandes projetos de infraestrutura combinada com pós-graduação em Gestão de Projetos pela USP e pela Universidad Politécnica de Madrid. São mais de 300 horas de especialização em nove meses. Exige formação entre dez/2022 e dez/2026, preferencialmente em Engenharia, Arquitetura ou áreas STEM.",
+  "x": "Atuação em grandes projetos de infraestrutura combinada com pós-graduação em Gestão de Projetos pela USP e pela Universidad Politécnica de Madrid. São mais de 300 horas de especialização em nove meses. Exige formação entre dezembro de 2022 e dezembro de 2026, preferencialmente em Engenharia, Arquitetura ou áreas STEM.",
   "u": "https://bit.ly/st-acciona",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
@@ -328,7 +1008,7 @@
   "fim": null,
   "loc": "Paracatu (MG), presencial",
   "ing": 2,
-  "x": "Programa de 24 meses em projetos estratégicos, com mentoria e contato com projetos internacionais do grupo. Benefícios: plano de saúde e odontológico, previdência privada e participação nos resultados. Exige Engenharia de Minas, Geológica, Metalúrgica ou Mecânica, ou Geologia, com graduação concluída a partir de dez/2023 ou conclusão prevista até dez/2026, e 1 a 2 anos de experiência na área.",
+  "x": "Programa de 24 meses em projetos estratégicos, com mentoria e contato com projetos internacionais do grupo. Benefícios: plano de saúde e odontológico, previdência privada e participação nos resultados. Exige Engenharia de Minas, Geológica, Metalúrgica ou Mecânica, ou Geologia, com graduação concluída a partir de dezembro de 2023 ou conclusão prevista até dezembro de 2026, e 1 a 2 anos de experiência na área.",
   "u": "https://sejatrainee.com.br/kinross-uma-das-maiores-produtoras-de-ouro-do-brasil-abre-trainee-para-engenheiros/",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
@@ -342,36 +1022,8 @@
   "fim": null,
   "loc": "Belo Horizonte (MG), presencial",
   "ing": 0,
-  "x": "Programa para estudantes de cursos de longa duração e recém-formados. Carga de 20h a 30h semanais para alunos e 40h para formados. Não exige experiência prévia. O processo tem 3 etapas, com testes aplicados em BH, Lavras, São João del-Rei e Viçosa. O prazo não foi informado pela empresa.",
+  "x": "Programa para graduados ou estudantes de cursos de longa duração, sem exigência de experiência prévia. A carga é de 20h a 30h semanais para alunos e 40h para formados. O processo tem 3 etapas, com testes em BH, Lavras, São João del-Rei e Viçosa. O prazo não foi informado pela empresa.",
   "u": "https://sejatrainee.com.br/trainee-sydle-vagas-abertas/",
-  "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
- },
- {
-  "t": "Trainee Grupo Solví 2027",
-  "k": "emprego",
-  "n": [
-   "grad"
-  ],
-  "fim": "2027-01-15",
-  "loc": "Seis estados (não detalhados no texto)",
-  "ing": 0,
-  "x": "Programa com 19 trilhas distribuídas em seis estados, em um dos maiores grupos de soluções ambientais da América Latina. O texto traz o prazo como 15 de janeiro, sem o ano; o ano de 2027 foi inferido do nome do programa.",
-  "u": "https://sejatrainee.com.br/grupo-solvi-vagas-abertas/",
-  "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
- },
- {
-  "t": "Programa Trainee AMH (Fábrica de Líderes)",
-  "k": "emprego",
-  "n": [
-   "grad"
-  ],
-  "fim": null,
-  "loc": null,
-  "ing": 0,
-  "x": "Programa de trainee de empresa de saúde presente em 8 estados, com salário de R$ 6.400.",
-  "u": "https://sejatrainee.com.br/fabrica-de-lideres-amh-vagas-abertas/",
   "s": "Seja Trainee",
   "coletado_em": "2026-11-10"
  }
