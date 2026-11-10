@@ -26,7 +26,7 @@ from urllib.parse import urlparse
 from playwright.sync_api import sync_playwright
 
 UA = "RotaOportunidadesBot/0.1 (projeto de extensao; contato: SEU_EMAIL_AQUI)"
-MODELO = os.environ.get("MODELO", "claude-sonnet-5-5")
+MODELO = os.environ.get("MODELO", "claude-haiku-5-5")
 PAUSA_SEGUNDOS = 5  # educação com os servidores: uma página a cada 5 s
 os.makedirs("saida", exist_ok=True)
 os.makedirs("docs", exist_ok=True)
