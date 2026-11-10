@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Oportunizando: converse e encontre oportunidades</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@700;800&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f0fb;--ink:#2a0f4a;--mute:#5d4a7a;--card:#fff;--line:#dccdf0;--acc:#4b1e86;--onacc:#fff;--gold:#e0a21a;--head:#3b0a6b;--hot:#b8321f;--onhot:#fff;--soft:#ece2f8;box-sizing:border-box}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#3b0a6b;--ink:#fff;--mute:#cdb8e8;--card:#4e2181;--line:#6b3ba1;--acc:#f7c948;--onacc:#3b0a6b;--gold:#f7c948;--head:#f7c948;--hot:#ff9a85;--onhot:#3b0a6b;--soft:#45177a}}
+:root[data-theme="dark"]{--bg:#3b0a6b;--ink:#fff;--mute:#cdb8e8;--card:#4e2181;--line:#6b3ba1;--acc:#f7c948;--onacc:#3b0a6b;--gold:#f7c948;--head:#f7c948;--hot:#ff9a85;--onhot:#3b0a6b;--soft:#45177a}
+*,*::before,*::after{box-sizing:inherit}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Poppins,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.app{display:flex;flex-direction:column;height:100dvh;max-width:820px;margin:0 auto;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+header{display:flex;align-items:center;gap:10px;padding:10px 16px;border-bottom:1px solid var(--line)}
+header b{font:800 20px "League Spartan",Impact,system-ui,sans-serif;text-transform:uppercase;color:var(--head);display:block;line-height:1}
+header small{color:var(--mute);font-size:12px}
+header .sp{flex:1}
+.hb{font:inherit;font-size:13px;font-weight:700;background:var(--soft);color:var(--head);border:0;border-radius:999px;padding:7px 14px;cursor:pointer}
+#feed{flex:1;overflow-y:auto;padding:16px;display:flex;flex-direction:column;gap:12px;scroll-behavior:smooth}
+.m{display:flex;gap:10px;max-width:100%}
+.m.u{justify-content:flex-end}
+.av{flex:none;width:34px;height:34px}
+.bub{background:var(--card);border:1px solid var(--line);border-radius:4px 20px 20px 20px;padding:12px 16px;max-width:min(92%,640px);white-space:pre-wrap;overflow-wrap:anywhere}
+.m.u .bub{background:var(--acc);color:var(--onacc);border-color:var(--acc);border-radius:20px 4px 20px 20px;font-weight:600}
+.bub.w{white-space:normal;width:100%;max-width:100%;background:transparent;border:0;padding:0}
+.dots i{display:inline-block;width:7px;height:7px;margin-right:4px;border-radius:50%;background:var(--mute);animation:bl 1s infinite}
+.dots i:nth-child(2){animation-delay:.15s}.dots i:nth-child(3){animation-delay:.3s}
+@keyframes bl{0%,60%,100%{opacity:.25}30%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.dots i{animation:none}#feed{scroll-behavior:auto}}
+.chips{display:flex;flex-wrap:wrap;gap:8px;padding-left:44px}
+.chip{font:inherit;font-size:14px;font-weight:600;background:var(--card);color:var(--head);border:1.5px solid var(--gold);border-radius:999px;padding:7px 15px;cursor:pointer}
+.chip.on{background:var(--acc);color:var(--onacc);border-color:var(--acc)}
+.chip.go{background:var(--gold);color:#2a0f4a;border-color:var(--gold)}
+.card{background:var(--card);border:1px solid var(--line);border-left:7px solid var(--gold);border-radius:16px;padding:12px 15px;margin:0 0 10px}
+.card.urg{border-left-color:var(--hot)}
+.top{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:flex-start}
+.card h3{margin:0;font:800 18px/1.15 "League Spartan",system-ui,sans-serif;text-transform:uppercase;color:var(--head)}
+.days{font-weight:700;font-size:12px;background:var(--acc);color:var(--onacc);border-radius:999px;padding:2px 11px;white-space:nowrap}
+.urg .days{background:var(--hot);color:var(--onhot)}
+.meta{font-size:13px;color:var(--mute);margin:2px 0 6px}
+.card p{margin:0}.why{margin:7px 0!important;padding:6px 10px;background:var(--soft);border-radius:10px;font-size:14px}
+.card small{display:block;color:var(--mute);font-size:12px;margin-top:2px}
+a{color:var(--head);font-weight:700}
+.stl{display:block;margin-top:7px;font-size:13px;font-weight:600}.stl select{font:inherit;color:var(--ink);background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:3px 8px;margin-left:6px}
+#kb{margin:0 16px 8px;padding:12px;border:1px solid var(--line);border-radius:16px;background:var(--card)}
+#kb h2{margin:0 0 8px;font:800 18px "League Spartan",system-ui,sans-serif;text-transform:uppercase;color:var(--head)}
+.kan{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}
+.col{background:var(--soft);border-radius:12px;padding:8px 10px}.col h3{margin:0 0 4px;font-size:14px;color:var(--head)}.col p{margin:4px 0;font-size:13px}
+.sug{display:flex;gap:8px;overflow-x:auto;padding:4px 16px}.sug .chip{white-space:nowrap;font-size:13px;border-color:var(--line)}
+form{display:flex;gap:8px;align-items:flex-end;margin:6px 16px 4px;padding:8px 8px 8px 16px;background:var(--card);border:1.5px solid var(--line);border-radius:26px}
+textarea{flex:1;resize:none;border:0;background:transparent;color:var(--ink);font:inherit;max-height:120px;outline:0;padding:6px 0}
+form:focus-within{border-color:var(--gold)}
+#send{width:42px;height:42px;border-radius:50%;border:0;background:var(--acc);color:var(--onacc);font-size:20px;font-weight:700;cursor:pointer}
+button:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.foot{font-size:12px;color:var(--mute);text-align:center;padding:2px 16px 10px}
+.ck summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--mute);margin-top:6px}.ck label{display:block;font-size:14px;margin:5px 0}
+.bar{height:8px;background:var(--soft);border-radius:99px;overflow:hidden;margin:6px 0}.bar i{display:block;height:100%;background:var(--gold);transition:width .2s}
+.met{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:10px}.met div{background:var(--soft);border-radius:12px;padding:8px;text-align:center;font-size:12px;color:var(--mute)}.met b{display:block;font:800 24px "League Spartan",system-ui,sans-serif;color:var(--head)}
+.alert{border-left:6px solid var(--hot);background:var(--soft);padding:6px 10px;border-radius:10px;margin:0 0 6px;font-size:14px}
+.kan2{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}.col small{color:var(--mute)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="app">
+<header><svg class="av" viewBox="0 0 120 120" role="img" aria-label="Logo Oportunizando"><circle cx="60" cy="60" r="56" fill="#f7c948"/><circle cx="70" cy="56" r="46" style="fill:var(--bg)"/><circle cx="70" cy="56" r="38" fill="#4e2181"/><circle cx="70" cy="49" r="17" fill="#f7931e"/><rect x="63" y="64" width="14" height="10" rx="2" fill="#c9c9d6"/><circle cx="64" cy="47" r="2.3" fill="#2a0f4a"/><circle cx="76" cy="47" r="2.3" fill="#2a0f4a"/><path d="M64 53q6 6 12 0" stroke="#2a0f4a" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+<div><b>Oportunizando</b><small id="stamp"></small></div><span class="sp"></span>
+<button class="hb" id="jb">Minha jornada (0)</button></header>
+<section id="kb" hidden><h2>Minha jornada</h2><div class="kan" id="kan"></div></section>
+<div id="feed" aria-live="polite"></div>
+<div class="sug" id="sug"></div>
+<form id="f"><textarea id="q" rows="1" placeholder="Pergunte sobre bolsas, estágios, cursos…" aria-label="Sua pergunta"></textarea><button id="send" aria-label="Enviar">↑</button></form>
+<p class="foot">Confirme sempre prazo e requisitos no site oficial. Esta base é uma foto de 10/11/2026.</p>
+</div>
+<script>
+var VERIF="2026-11-10";
+var D=[
+
+{t:"Chevening (Reino Unido)",k:"bolsa",n:["pos"],fim:"2026-11-15",loc:"Mestrado de 1 ano no Reino Unido",ing:2,x:"Bolsa do governo britânico para mestrado. Costuma exigir graduação concluída e experiência de trabalho; confira no edital.",u:"https://oportunidadesinternacionais.ufsc.br/category/bolsas-de-estudos/",s:"UFSC, Oportunidades Internacionais"},
+{t:"ETH Zürich, bolsa ESOP (Suíça)",k:"bolsa",n:["pos"],fim:"2026-11-30",loc:"Mestrado na Suíça",ing:2,x:"Programa de bolsas de mestrado da ETH Zürich. Inscrições de 1º a 30 de novembro.",u:"https://blog.pensarcursos.com.br/bolsas-para-estudar-fora-capes-recebe-inscricoes-ate-sexta-23-e-universidade-suica-abre-em-novembro/",s:"Pensar Cursos"},
+{t:"Yenching Academy (Pequim)",k:"bolsa",n:["pos"],fim:"2026-11-30",loc:"Mestrado na China",ing:2,x:"Mestrado interdisciplinar sobre a China com bolsa integral.",u:"https://partiuintercambio.org/bolsas-de-estudo-2026-intercambio-gratuito/",s:"Partiu Intercâmbio"},
+{t:"Swedish Institute, SISGP (Suécia)",k:"bolsa",n:["pos"],fim:"2026-11-08",loc:"Mestrado na Suécia",ing:2,x:"Bolsa para mestrado na Suécia. O prazo está muito próximo.",u:"https://partiuintercambio.org/bolsas-de-estudo/",s:"Partiu Intercâmbio"},
+{t:"YLAI, curso de empreendedorismo (EUA)",k:"bolsa",n:["pos"],fim:"2026-11-08",loc:"Curso curto nos Estados Unidos",ing:2,x:"Programa de empreendedorismo com despesas cobertas. As fontes divergem no prazo (8 ou 30 de novembro): confirme no site oficial.",u:"https://partiuintercambio.org/bolsas-de-estudo/",s:"Partiu Intercâmbio"},
+{af:["mulher"],t:"Science Ambassador (EUA)",k:"bolsa",n:["em"],fim:"2026-12-15",loc:"Graduação nos Estados Unidos",ing:2,x:"Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia.",u:"https://www.estudarfora.org.br/melhores-bolsas-com-inscricoes-abertas/",s:"Estudar Fora"},
+{t:"Mobilidade internacional pela sua universidade",k:"bolsa",n:["grad"],fim:null,loc:"Editais da assessoria internacional da sua instituição",ing:1,x:"A maior parte dos intercâmbios de graduação sai por editais da própria universidade, só para quem tem matrícula ativa, com convênios e vagas do Erasmus+. Exemplo: o edital 01/2026 da UFMG para mobilidade em 2027. Procure a assessoria internacional da sua instituição e acompanhe os editais.",u:"https://www.ufmg.br/dri/?p=38767",s:"UFMG, Diretoria de Relações Internacionais (exemplo)"},
+{t:"CIEE Rio, estágio",k:"estagio",n:["em","grad"],fim:null,rio:1,loc:"Rio de Janeiro e interior, cadastro gratuito",ing:0,x:"Vagas de estágio de nível superior, médio e técnico. No mutirão de 27 e 28/10 eram 1.727 vagas no estado, 917 delas na capital. As vagas mudam todo dia: faça o cadastro e consulte o portal.",u:"https://www.cieerj.org.br",s:"CIEE Rio (portal oficial)"},
+{af:["baixa"],t:"CIEE Rio, Jovem Aprendiz",k:"aprendiz",n:["em"],fim:null,rio:1,loc:"Rio de Janeiro e interior, cadastro gratuito",ing:0,x:"No mutirão de 27 e 28/10 havia 833 vagas de aprendiz no estado, 503 na capital. Consulte o portal para ver as vagas de hoje.",u:"https://www.cieerj.org.br",s:"CIEE Rio (portal oficial)"},
+{af:["pcd", "baixa"],t:"CIEE em Movimento (atendimento itinerante)",k:"emprego",n:["em","grad"],fim:null,rio:1,loc:"Ações em diferentes cidades e bairros",ing:0,x:"Cadastramento e encaminhamento para estágio, Jovem Aprendiz e vagas para pessoas com deficiência. Acompanhe a agenda no CIEE Rio.",u:"https://www.cieerj.org.br",s:"CIEE Rio (portal oficial)"},
+{t:"Sebrae, cursos online gratuitos",k:"empreender",n:["em","grad","pos"],fim:null,loc:"100% online, certificado digital gratuito",ing:0,x:"Mais de 400 cursos e trilhas em nove temas: Cooperação, Empreendedorismo, Finanças, Inovação, Leis, Mercado e Vendas, Organização, Pessoas e Planejamento. Cada um tem prazo de conclusão.",u:"https://www.sebrae.com.br/sites/PortalSebrae/cursosonline",s:"Sebrae (portal oficial)"},
+{t:"Sebrae: Empreendedorismo e Planejamento",k:"empreender",n:["em","grad","pos"],fim:null,loc:"Cursos online gratuitos",ing:0,x:"Exemplos citados em reportagens: Iniciando um Pequeno Grande Negócio, Fundamentos básicos para a criação de negócios, Super MEI: primeiros passos e Planeje suas metas e resultados. Confirme no catálogo.",u:"https://www.sebrae.com.br/sites/PortalSebrae/cursosonline",s:"Sebrae (portal oficial)"},
+{t:"Sebrae: Finanças e Leis",k:"empreender",n:["em","grad","pos"],fim:null,loc:"Cursos online gratuitos",ing:0,x:"Exemplos: Gestão Financeira, Como definir o preço de venda, Microcrédito consciente, Como controlar o fluxo de caixa e Contrato de trabalho. Confirme no catálogo.",u:"https://www.sebrae.com.br/sites/PortalSebrae/cursosonline",s:"Sebrae (portal oficial)"},
+{t:"Sebrae: Mercado e Vendas",k:"empreender",n:["em","grad","pos"],fim:null,loc:"Cursos online gratuitos",ing:0,x:"Exemplos: cursos de Marketing digital, Como vender mais e melhor, Gestão de Marketplace e Como anunciar em sites de vendas. Confirme no catálogo.",u:"https://www.sebrae.com.br/sites/PortalSebrae/cursosonline",s:"Sebrae (portal oficial)"},
+{t:"Sebrae: Pessoas e Organização",k:"empreender",n:["em","grad","pos"],fim:null,loc:"Cursos online gratuitos",ing:0,x:"Exemplos: Liderança e produtividade, Tomada de decisão e solução de problemas, Comunicação eficiente e ambiente colaborativo, Flexibilidade e adaptação.",u:"https://www.sebrae.com.br/sites/PortalSebrae/cursosonline",s:"Sebrae (portal oficial)"},
+{t:"Sebrae: Inovação e Cooperação",k:"empreender",n:["em","grad","pos"],fim:null,loc:"Cursos online gratuitos",ing:0,x:"Exemplos: Inovação e agilidade: o futuro do empreendedorismo e Inovação de impacto para Startups. Confirme no catálogo.",u:"https://www.sebrae.com.br/sites/PortalSebrae/cursosonline",s:"Sebrae (portal oficial)"},
+{t:"Inova Startups (Sebrae/SC)",k:"empreender",n:["grad","pos"],fim:"2026-11-30",loc:"Online, startups de qualquer setor e estado",ing:0,x:"Sexta edição. Cada startup selecionada pode receber até R$ 800 mil em duas fases, com mentorias e workshops.",u:"https://startups.com.br/branded-content/inova-startups-investe-ate-r-800-mil-em-negocios-com-potencial-de-escala/",s:"Startups.com.br (conteúdo patrocinado)"},
+{t:"Prêmio Sebrae Startups 2026",k:"empreender",n:["grad","pos"],fim:null,loc:"Nacional",ing:0,x:"A campeã nacional recebe R$ 250 mil. A matéria que li não informa o prazo: confirme no site do Sebrae Startups.",u:"https://agenciasebrae.com.br/?p=38555",s:"Agência Sebrae de Notícias"},
+{t:"BNDES, aceleração de 100 startups",k:"empreender",n:["grad","pos"],fim:"2026-11-30",loc:"Programa gratuito, nacional",ing:0,x:"Seleção de até 100 startups para preparação, gestão e conexão com investidores. Os melhores podem concorrer a prêmios de até R$ 1 milhão.",u:"https://paraibabusiness.com.br/bndes-abre-selecao-para-100-startups-veja-como-participar-na-paraiba/",s:"Paraíba Business"},
+{t:"iFood, programa GEN IA",k:"estagio",n:["grad","pos"],fim:"2026-11-17",loc:"Osasco (SP), híbrido",ing:1,x:"Programa de IA para universitários com formatura entre jul/2027 e jan/2029 (bolsa-auxílio de R$ 5.200) e para recém-formados com conclusão entre dez/2025 e dez/2026 (residência corporativa, R$ 7.000). Início em fevereiro de 2027.",u:"https://visaooeste.com.br/ifood-abre-vagas-para-programa-de-ia/",s:"Visão Oeste"},
+{af:["baixa"],t:"Jovem Aprendiz Raízen",k:"aprendiz",n:["em"],fim:"2026-12-03",loc:"Várias unidades; admissões a partir de janeiro de 2027",ing:0,x:"Mais de 340 vagas administrativas, operacionais e técnicas. Inscrições de 3/11 a 3/12.",u:"https://novomomento.com.br/raizen-abre-inscricoes-para-vagas-mais-de-340/",s:"Novo Momento"},
+{t:"Jovem Aprendiz Espro",k:"aprendiz",n:["em"],fim:null,loc:"16 estados, inscrição pela internet",ing:0,x:"Mais de 4,5 mil vagas para jovens de 14 a 23 anos com ensino médio concluído ou em andamento. A matéria é de setembro: confirme se ainda há vagas no seu estado.",u:"https://www.em.com.br/mundo-corporativo/2026/09/7510545-espro-oferece-mais-de-45-mil-vagas-de-jovem-aprendiz.html",s:"Estado de Minas"},
+{t:"Trainee 2027: ciclo já encerrado",k:"emprego",n:["grad","pos"],fim:null,loc:"Calendário anual",ing:1,x:"A maioria dos trainees de 2027 já fechou (Nestlé em 9/9, Ambev em 2/9, Kinross em 30/10). Os ciclos costumam abrir entre julho e setembro, então acompanhe nesse período em 2027 (previsão com base neste ano).",u:"https://sejatrainee.com.br/vagas-trainee-com-inscricoes-abertas/",s:"Seja Trainee"},
+{t:"Gates Cambridge (Reino Unido)",k:"bolsa",n:["pos"],fim:"2026-12-08",loc:"Mestrado ou doutorado em Cambridge",ing:2,x:"O prazo é 8/12/2026 ou 6/1/2027, dependendo do curso. Confirme o prazo do seu curso.",u:"https://www.universidadedointercambio.com/bolsas-estudo-exterior-2027-editais-outubro/",s:"Universidade do Intercâmbio"},
+{t:"Erasmus Mundus (Europa)",k:"bolsa",n:["pos"],fim:null,loc:"Mestrados conjuntos em vários países",ing:2,x:"Em geral as candidaturas vão de outubro a janeiro, com resultados entre março e maio. Cada programa tem prazo próprio.",u:"https://doutoranathalia.com.br/blog/bolsas-estudo-exterior-2027/",s:"Dra. Nathália (blog)"},
+{t:"MEXT, graduação no Japão",k:"bolsa",n:["em"],fim:null,loc:"Graduação no Japão",ing:1,x:"As inscrições de graduação em 2026 foram de 1 a 26 de junho. Uma reportagem prevê processo parecido a partir de junho de 2027 (previsão). Acompanhe o site da embaixada.",u:"https://www.unirio.br/relacoesinternacionais/portugues/noticias/oportunidades-de-bolsas",s:"UNIRIO, Relações Internacionais"},
+{t:"Estágio Azul 2027",k:"estagio",n:["grad"],fim:"2026-11-08",loc:"Barueri, Campinas e Jundiaí (SP)",ing:0,x:"72 vagas, bolsa de R$ 1.800, seis horas por dia, até 24 meses. Formatura prevista entre dez/2028 e jul/2029.",u:"https://catracalivre.com.br/educacao/azul-prorroga-inscricoes-do-programa-de-estagio-2027-ate-8-de-novembro/",s:"Catraca Livre"},
+{t:"Estágio Honda 2027",k:"estagio",n:["grad"],fim:"2026-11-09",loc:"Inscrição pelo portal da empresa",ing:0,x:"Programa para universitários, com seleção online.",u:"https://estagiohonda.gupy.io/",s:"Portal oficial (Gupy)"},
+{t:"Estágio Ypê 2027",k:"estagio",n:["grad"],fim:"2026-11-11",rio:1,loc:"SP, BA e RJ",ing:0,x:"Mais de 35 vagas, incluindo o Rio. Para quem conclui a graduação entre dez/2027 e ago/2028.",u:"https://diariodorio.com/economia/mercado-de-trabalho/2026/10/20/ype-abre-inscricoes-para-estagio-com-vagas-no-rio-de-janeiro.html",s:"Diário do Rio"},
+{t:"Estágio PAM Saint-Gobain 2027",k:"estagio",n:["grad"],fim:"2026-11-25",rio:1,loc:"Barra Mansa (RJ), presencial",ing:0,x:"12 vagas para cursos variados, bolsa-auxílio média de R$ 1.450,80 e benefícios. Início em janeiro.",u:"https://www.em.com.br/mundo-corporativo/2026/10/7530531-pam-saint-gobain-abre-inscricoes-para-programa-de-estagio.html",s:"Estado de Minas"},
+{t:"Enem 2026",k:"acesso",n:["em"],fim:"2026-11-15",lab:"Provas em 8 e 15/11",loc:"Provas em 8 e 15 de novembro",ing:0,x:"A nota do Enem abre a porta para Sisu, ProUni e Fies. As inscrições já passaram; se você está inscrito, é hora de revisar.",u:"https://www.blogdovestibular.com/?p=333871",s:"Blog do Vestibular"},
+{af:["publica", "negra", "baixa", "pcd"],t:"Sisu 2027",k:"acesso",n:["em"],fim:null,loc:"Previsto para janeiro de 2027",ing:0,x:"Vagas em universidades públicas e institutos federais com a nota do Enem. As datas oficiais dependem do MEC.",u:"https://www.vestibulandoweb.com.br/sisu/quando-abre-o-sisu-2027/",s:"Vestibulando Web"},
+{af:["publica", "baixa", "negra"],t:"ProUni e Fies 2027.1",k:"acesso",n:["em"],fim:null,loc:"Depois do Sisu, sem data ainda",ing:0,x:"ProUni dá bolsa em faculdade privada; Fies é financiamento. Os meses ainda não foram confirmados.",u:"https://www.vestibulandoweb.com.br/ensino/sisu-prouni-fies-2027-inscricoes-previstas-diferencas/",s:"Vestibulando Web"},
+{t:"Mestrado Profissional em Administração, PUC-Rio",k:"pos",n:["pos"],fim:"2026-11-15",rio:1,loc:"Rio de Janeiro",ing:1,x:"Aceita graduados de qualquer área. É pago: R$ 79.200 para a turma de 2027, segundo o edital.",u:"https://iag.puc-rio.br/mestrado-profissional-em-administracao-de-empresas-2027-inscricoes-abertas/",s:"PUC-Rio"},
+{t:"PPGTDS, Tecnologia para o Desenvolvimento Social (UFRJ)",k:"pos",n:["pos"],fim:null,rio:1,loc:"Rio de Janeiro, gratuito",ing:1,x:"Mestrado profissional. As inscrições de 2027 foram em setembro; a próxima turma deve seguir o ciclo anual (previsão).",u:"http://ppgtds.nides.ufrj.br",s:"Site do programa"},
+{af:["publica"],"t": "Vestibular Cederj 2027/1", "k": "acesso", "n": ["em"], "fim": "2026-11-15", "loc": "8 instituições públicas do RJ, semipresencial e a distância", "ing": 0, "x": "7.165 vagas em 16 cursos. Inscrição prorrogada até 15/11; prova em 6/12/2026.", "u": "https://cecierj.edu.br/consorcio-cederj/vestibular/2027-1/", "s": "O São Gonçalo", "rio": 1},
+{"t": "Processo seletivo IFRJ 2027", k:"tecnico", "n": ["em"], "fim": "2026-11-16", "loc": "Campi do IFRJ", "ing": 0, "x": "1.814 vagas em cursos técnicos integrados ao ensino médio, para quem concluiu o ensino fundamental. Taxa de R$ 70, com pedido de isenção; prova em dezembro.", "u": "https://www.vestibulandoweb.com.br/?p=33763", "s": "Vestibulando Web", "rio": 1},
+{af:["baixa"],"t": "Escola da Nuvem", "k": "curso", "n": ["em", "grad"], "fim": null, "loc": "Online, gratuito", "ing": 0, "x": "Cursos de computação em nuvem e IA para jovens e adultos em vulnerabilidade social, com certificação AWS e conexão a vagas.", "u": "https://escoladanuvem.org/cursos", "s": "Abes Mais"},
+{af:["negra"],"t": "Afreektech 2026", "k": "curso", "n": ["em", "grad"], "fim": null, "loc": "Online, gratuito", "ing": 0, "x": "Plataforma gratuita para jovens negros, com cursos de marketing digital, IA, programação, vendas e ciência de dados. A matéria cita 24 mil vagas.", "u": "https://catracalivre.com.br/educacao/programa-abre-24-mil-vagas-em-cursos-gratuitos-para-jovens-negros/", "s": "Catraca Livre"},
+{af:["baixa"],"t": "JUVRio, Espaços da Juventude", "k": "curso", "n": ["em", "grad"], "fim": null, "loc": "Cidade do Rio, jovens de 15 a 29 anos", "ing": 0, "x": "Cerca de 3.500 vagas por mês em cursos gratuitos de tecnologia, IA, idiomas e criatividade, pela plataforma Oportunidades Cariocas. A edição de novembro encerrou em 9/11: acompanhe a próxima.", "u": "https://diariodorio.com/educacao/2026/10/16/rio-abre-35-mil-vagas-em-cursos-gratuitos-de-ia-drones-e-conserto-de-celulares.html", "s": "Diário do Rio", "rio": 1},
+{af:["baixa"],"t": "Yale Young Global Scholars (EUA)", "k": "bolsa", "n": ["em"], "fim": "2027-01-06", "loc": "Curso de verão em Yale, 2 semanas", "ing": 2, "x": "Bolsas por necessidade financeira, de até 100% do programa, para alunos do ensino médio. Prazo da fase regular: 6/1/2027.", "u": "https://www.estudarfora.org.br/curso-verao-yale/", "s": "Estudar Fora"},
+{"t": "American University, Emerging Global Leader (EUA)", "k": "bolsa", "n": ["em"], "fim": "2027-01-15", "loc": "Graduação em Washington D.C.", "ing": 2, "x": "Bolsa para estudantes dedicados à mudança social. Duas etapas, ambas até 15/1/2027: Common Application e candidatura da bolsa.", "u": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/", "s": "Estudar Fora"},
+{"t": "Sciences Po, bolsa Emile Boutmy (graduação)", "k": "bolsa", "n": ["em"], "fim": "2027-01-13", "loc": "Paris, França", "ing": 2, "x": "Pode cobrir até 100% da anuidade ou 9.500 euros. Vale para quem foi aceito pela primeira vez.", "u": "https://www.estudarfora.org.br/emile-boutmy-bolsas-para-o-sciences-po/", "s": "Estudar Fora"},
+{"t": "Sciences Po, bolsa Emile Boutmy (mestrado)", "k": "bolsa", "n": ["pos"], "fim": "2026-11-29", "loc": "Paris, França", "ing": 2, "x": "Prêmios de até 18.500 euros por ano para quem foi aceito no mestrado. Prazo de 29/11/2026.", "u": "https://www.estudarfora.org.br/emile-boutmy-bolsas-para-o-sciences-po/", "s": "Estudar Fora"},
+{"t": "SBW Berlin Scholarship (Alemanha)", "k": "bolsa", "n": ["em", "pos"], "fim": null, "loc": "Berlim ou Potsdam", "ing": 2, "x": "Bolsa integral para graduação e mestrado. Exige experiência em ONG ou trabalho voluntário. Inscrições abertas o ano todo.", "u": "https://www.estudarfora.org.br/bolsas-graduacao-mestrado-alemanha/", "s": "Estudar Fora"},
+{"t": "DAAD EPOS, pós em desenvolvimento (Alemanha)", "k": "bolsa", "n": ["pos"], "fim": null, "loc": "Mestrado na Alemanha", "ing": 2, "x": "Bolsas para profissionais de países em desenvolvimento, com mensalidade, passagem e seguro. Os prazos variam por curso.", "u": "https://www.estudarfora.org.br/bolsas-de-pos-graduacao-na-alemanha-epos-daad/", "s": "Estudar Fora"},
+{"t": "Heinz Kühn Stiftung, bolsa para jornalistas", "k": "bolsa", "n": ["pos"], "fim": "2026-11-30", "loc": "Renânia do Norte-Vestfália, Alemanha", "ing": 1, "x": "Treinamento de até 3 meses com curso de alemão, estágio em veículo local e projeto de pesquisa; despesas cobertas.", "u": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/", "s": "Estudar Fora"},
+{"t": "Hong Kong PhD Fellowship", "k": "bolsa", "n": ["pos"], "fim": "2026-12-01", "loc": "Doutorado em Hong Kong", "ing": 2, "x": "400 bolsas para três anos, com auxílio anual de cerca de 44 mil dólares e verba de pesquisa.", "u": "https://www.estudarfora.org.br/bolsa-para-phd-em-hong-kong/", "s": "Estudar Fora"},
+{"t": "Oxford, Weidenfeld-Hoffmann", "k": "bolsa", "n": ["pos"], "fim": null, "loc": "Mestrado em Oxford", "ing": 2, "x": "Bolsas integrais com programa de liderança para países em desenvolvimento. O prazo segue cada mestrado, entre dezembro e janeiro.", "u": "https://www.estudarfora.org.br/inscricoes-abertas-para-bolsas-integrais-de-mestrado-na-universidade-de-oxford/", "s": "Estudar Fora"},
+{af:["publica", "baixa"],"t": "Pé-de-Meia (MEC)", "k": "bolsa", "n": ["em"], "fim": null, "loc": "Rede pública, ensino médio, com CadÚnico ativo", "ing": 0, "x": "Incentivo financeiro com participação automática para quem cumpre os requisitos. Quem conclui o ensino médio em 2026 e faz os dois dias do Enem recebe R$ 200 a mais, no primeiro trimestre de 2027.", "u": "https://www.gov.br/mec/pt-br/pe-de-meia/calendario-pagamentos", "s": "gov.br (MEC)"},
+{"t": "Encceja Nacional", "k": "acesso", "n": ["em"], "fim": null, "loc": "Prova gratuita, nacional", "ing": 0, "x": "Certificação do ensino fundamental (a partir de 15 anos) ou médio (a partir de 18) para quem não concluiu os estudos na idade certa. A edição de 2026 já passou (inscrições em maio, prova em 23/8): acompanhe a de 2027.", "u": "https://concursosnobrasil.com/encceja-2026/", "s": "Concursos no Brasil"},
+{af:["publica"],"t": "Colégio Pedro II, ingresso no ensino médio", "k": "acesso", "n": ["em"], "fim": null, "loc": "Rio de Janeiro e Niterói", "ing": 0, "x": "A seleção de 2027 teve 477 vagas na 1ª série e inscrições de 29/7 a 19/8/2026. A seleção é anual: acompanhe a de 2028, que deve seguir período parecido (previsão).", "u": "https://www.pebsp.com/tradicional-colegio-pedro-ii-do-mec-abre-477-vagas-para-1a-serie-do-ensino-medio-2027/", "s": "PEBSP", "rio": 1},
+{af:["publica", "baixa"],"t": "Faetec, cursos técnicos gratuitos", k:"tecnico", "n": ["em"], "fim": null, "loc": "Rede estadual do Rio de Janeiro", "ing": 0, "x": "O pós-médio de 2026.2 abriu mais de 12 mil vagas, com inscrições até 14/9. Acompanhe o próximo edital em faetec.rj.gov.br.", "u": "https://www.diariodorio.com/educacao/2026/09/04/faetec-oferece-12-mil-vagas-gratuitas-em-cursos-tecnicos-no-estado-do-rio.html", "s": "Diário do Rio", "rio": 1},
+{"t": "Senar, cursos técnicos gratuitos (agro)", "k": "tecnico", "n": ["em"], "fim": "2026-11-24", "loc": "20 estados, a distância e presencial", "ing": 0, "x": "4.338 vagas em cursos técnicos de nível médio (Agropecuária, Agronegócio, Florestas, Zootecnia, Segurança do Trabalho no Agro e outros). Exige ensino médio concluído; produtores rurais e familiares têm prioridade. A fonte cita 24/11 e 27/11 como fim: confirme no edital. Aulas a partir de 15/2/2027.", "u": "https://cnabrasil.org.br/noticias/senar-abre-4-3-mil-vagas-para-cursos-tecnicos-de-nivel-medio", "s": "CNA Brasil"},
+{af:["negra"],"t": "STF, banco de estágio para estudantes negros, indígenas e quilombolas", "k": "estagio", "n": ["grad"], "fim": null, "loc": "Inscrição online (STF, Brasília)", "ing": 0, "x": "Banco de estágio aberto para cursos de Direito, Letras, Pedagogia, Ciência da Computação e Comunicação Social (Jornalismo). Exige autodeclaração como pessoa negra, indígena ou quilombola. Sem prazo informado: as vagas surgem ao longo do ano.", "u": "https://noticias.stf.jus.br/postsnoticias/stf-abre-inscricoes-de-estagio-para-estudantes-negros-indigenas-e-quilombolas/", "s": "STF (notícia oficial)"},
+{"t": "CPQD, estágio 2027 em tecnologia e gestão", "k": "estagio", "n": ["grad"], "fim": "2026-11-20", "loc": "Campinas (SP), híbrido", "ing": 0, "x": "40 vagas para quem está no penúltimo ou último ano da graduação, com bolsa de até R$ 2,1 mil e 20 horas semanais. A matéria diz 'até 20 de novembro' sem citar o ano: confirme.", "u": "https://catracalivre.com.br/educacao/cpqd-abre-inscricoes-para-programa-de-estagio-na-area-de-tecnologia/", "s": "Catraca Livre"},
+{af:["baixa"],"t": "Espro, cursos gratuitos de capacitação", "k": "curso", "n": ["em"], "fim": null, "loc": "Presencial, 23 cidades (Recife: 180 vagas)", "ing": 0, "x": "4.720 vagas em 154 turmas para jovens de 14 a 22 anos, com certificado. Ao concluir, o aluno entra no banco de talentos para Jovem Aprendiz. Turmas começam entre agosto e novembro: veja se há turma na sua cidade.", "u": "https://portaldeprefeitura.com.br/oportunidades/espro-cursos-gratuitos-de-capacitacao-oferecem-mais-de-47-mil-vagas/628146/", "s": "Portal de Prefeitura"}
+];
+var K={bolsa:"Bolsa ou intercâmbio",estagio:"Estágio",aprendiz:"Jovem Aprendiz",tecnico:"Cursos técnicos",acesso:"Entrar na graduação",pos:"Mestrado ou pós",emprego:"Trainee ou emprego",empreender:"Empreendedorismo",curso:"Cursos gratuitos"};
+var AF={publica:"Estudei em escola pública",negra:"Sou preto, pardo ou indígena",baixa:"Renda familiar baixa",pcd:"Tenho deficiência",mulher:"Sou mulher ou pessoa não binária"};
+var ST=["Acompanhar","A fazer","Fazendo","Concluído"],S={},P={obj:[]};
+var $=function(i){return document.getElementById(i)},feed=$("feed");
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;")}
+function days(f){var a=new Date();a.setHours(0,0,0,0);return Math.round((new Date(f+"T00:00:00")-a)/864e5)}
+function sc(){feed.scrollTop=feed.scrollHeight}
+$("stamp").textContent="Base verificada em 10/11/2026 · "+D.length+" oportunidades";
+var AV='<svg class="av" viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="56" fill="#4e2181"/><circle cx="60" cy="52" r="22" fill="#f7931e"/><rect x="51" y="72" width="18" height="12" rx="3" fill="#c9c9d6"/><circle cx="52" cy="50" r="3" fill="#2a0f4a"/><circle cx="68" cy="50" r="3" fill="#2a0f4a"/><path d="M52 59q8 8 16 0" stroke="#2a0f4a" stroke-width="3" fill="none" stroke-linecap="round"/></svg>';
+function msg(w,h){var m=document.createElement("div");m.className="m "+w;m.innerHTML=(w==="a"?AV:"")+'<div class="bub">'+h+'</div>';feed.appendChild(m);sc();return m.lastChild}
+function say(h,cb,wide){var b=msg("a",'<span class="dots"><i></i><i></i><i></i></span>');setTimeout(function(){b.innerHTML=h;if(wide)b.className="bub w";sc();if(cb)cb(b)},450);return b}
+function me(t){msg("u",esc(t))}
+function chips(opts,multi,done){var w=document.createElement("div");w.className="chips";var sel=[];
+opts.forEach(function(o){var b=document.createElement("button");b.type="button";b.className="chip";b.textContent=o[1];b.onclick=function(){if(multi){b.classList.toggle("on");var i=sel.indexOf(o[0]);i<0?sel.push(o[0]):sel.splice(i,1)}else{w.remove();me(o[1]);done(o[0])}};w.appendChild(b)});
+if(multi){var ok=document.createElement("button");ok.type="button";ok.className="chip go";ok.textContent="Pronto";ok.onclick=function(){if(!sel.length)return;w.remove();me(sel.map(function(v){return opts.filter(function(o){return o[0]===v})[0][1]}).join(", "));done(sel)};w.appendChild(ok)}
+feed.appendChild(w);sc()}
+function start(){P={obj:[],af:[]};say("Oi! Eu sou o <b>Oportunizando</b>. Mostro bolsas, estágios, cursos e vagas com prazo e link da fonte. Em que etapa você está?",function(){chips([["em","Ensino médio"],["grad","Cursando graduação"],["pos","Já me formei"]],0,function(v){P.niv=v;q2()})})}
+function q2(){say("O que você procura? Pode marcar mais de uma.",function(){chips(Object.keys(K).map(function(k){return[k,K[k]]}),1,function(v){P.obj=v;q4()})})}
+function q3(){say("Como está seu inglês?",function(){chips([[0,"Ainda não leio"],[1,"Leio com dificuldade"],[2,"Intermediário ou mais"]],0,function(v){P.ing=+v;q4()})})}
+function q4(){say("Algumas oportunidades reservam vagas para públicos específicos (cotas e programas afirmativos). Alguma destas se aplica a você? Pode marcar mais de uma. Uso isso só para destacar vagas: nada fica salvo.",function(){chips(Object.keys(AF).map(function(k){return[k,AF[k]]}).concat([["amplo","Ampla concorrência (sem cota)"],["nenhuma","Prefiro não responder"]]),1,function(v){P.af=v.filter(function(x){return x!=="nenhuma"&&x!=="amplo"});results()})})}
+function gap(p){var n=p.obj.map(function(k){return K[k].toLowerCase()}).join(" ou ");if(p.obj.indexOf("estagio")>=0&&p.niv==="em")return"No ensino médio, estágio costuma ser só em curso técnico. Vale marcar também “Jovem Aprendiz” e “Cursos técnicos”.";if(p.obj.indexOf("estagio")>=0&&p.niv==="pos")return"Estágio, em geral, exige matrícula. Para quem já se formou, o caminho costuma ser trainee: marque “Trainee ou emprego”.";return"Ainda não tenho oportunidades de "+n+" para essa etapa na base."}
+function rank(p){var L=[];D.forEach(function(d){if(d.n.indexOf(p.niv)<0)return;var dl=d.fim?days(d.fim):null;if(dl!==null&&dl<0)return;
+var s=0,w=[],m=p.obj.indexOf(d.k)>=0;if(m){s+=3;w.push("combina com o que você procura")}
+var af=(d.af||[]).filter(function(a){return p.af.indexOf(a)>=0});if(af.length){s+=2;w.push("tem vaga ou critério afirmativo para o seu perfil ("+af.map(function(a){return AF[a].toLowerCase()}).join(", ")+")")}
+if(m&&dl!==null&&dl<=14){s+=1;w.push("o prazo é curto")}
+if(d.ing>=2)w.push("pede inglês avançado: confira o nível exigido")
+if(!w.length)w.push("serve para a sua etapa");L.push({d:d,dl:dl,s:s,w:w,m:m})});
+L.sort(function(a,b){return b.s-a.s||((a.dl===null?9e3:a.dl)-(b.dl===null?9e3:b.dl))});
+return{M:L.filter(function(r){return r.m}),O:L.filter(function(r){return!r.m})}}
+function ckh(d,i){var e=jg(d)||{ck:[0,0,0,0,0]},n=nck(e);return'<details class="ck"><summary>Checklist da candidatura <b class="pg">'+n+'/5</b></summary><div class="bar"><i style="width:'+n*20+'%"></i></div>'+(CKS[d.k]||CKS.bolsa).map(function(c,j){return'<label><input type="checkbox" class="cb" data-i="'+i+'" data-j="'+j+'"'+(e.ck[j]?" checked":"")+"> "+c+"</label>"}).join("")+"</details>"}
+function card(r){var d=r.d,u=r.dl!==null&&r.dl<=7,i=D.indexOf(d);
+var t=d.lab?d.lab:r.dl===null?"Sem data definida":(r.dl===0?"Último dia hoje":(r.dl===1?"Falta 1 dia":"Faltam "+r.dl+" dias"));
+return'<article class="card'+(u?' urg':'')+'"><div class="top"><h3>'+esc(d.t)+'</h3><span class="days">'+t+'</span></div><p class="meta">'+esc(d.loc)+'</p><p>'+esc(d.x)+'</p>'+(r.w?'<p class="why">'+esc(r.w.join("; "))+'.</p>':'')+'<a href="'+d.u+'" target="_blank" rel="noopener">Abrir fonte: '+esc(d.s)+'</a><small>Confirme prazo, requisitos e critérios de cota no site oficial.</small><label class="stl">Minha jornada <select class="st" data-i="'+i+'">'+ST.map(function(o){return"<option"+(((jg(d)||{}).st||"Acompanhar")===o?" selected":"")+">"+o+"</option>"}).join("")+'</select></label>'+ckh(d,i)+'</article>'}
+function results(){var R=rank(P),top=R.M.slice(0,5);
+var intro=R.M.length?"Achei <b>"+R.M.length+"</b> que combinam com você. As mais próximas do prazo e do seu perfil:":gap(P);
+say(intro,function(){if(!R.M.length&&!R.O.length)return;
+say(top.concat(R.M.length?[]:R.O.slice(0,3)).map(card).join(""),function(){
+var more=R.M.slice(5);if(more.length){chips([["m","Mostrar mais "+more.length]],0,function(){say(more.map(card).join(""),null,1)})}
+say("Quer ajustar? Pergunte o que quiser ou escolha uma opção abaixo.")},1)})}
+function norm(s){return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")}
+function local(q){var n=norm(q),L=[];
+if(/venc|prazo|urgen|semana|logo/.test(n)){D.forEach(function(d){var dl=d.fim?days(d.fim):null;if(dl!==null&&dl>=0&&dl<=14)L.push({d:d,dl:dl})});L.sort(function(a,b){return a.dl-b.dl});return L.length?{t:"Estas têm prazo nos próximos 14 dias:",L:L}:{t:"Nada com prazo nos próximos 14 dias na base."}}
+var toks=n.split(/\W+/).filter(function(w){return w.length>3&&["quero","sobre","para","algo","tenho","preciso"].indexOf(w)<0});
+if(/gratuit|gratis|sem custo/.test(n))toks=["gratuit"];
+D.forEach(function(d){var tx=norm(d.t+" "+d.x+" "+d.loc),dl=d.fim?days(d.fim):null;if(dl!==null&&dl<0)return;if(toks.some(function(w){return tx.indexOf(w)>=0}))L.push({d:d,dl:dl})});
+return L.length?{t:"Achei "+L.length+" na base. As primeiras:",L:L.slice(0,5)}:{t:"Não encontrei isso na base. Tente outras palavras, como bolsa, estágio, curso, Rio ou o nome do programa."}}
+function ask(q){me(q);
+if(typeof claude!=="undefined"){var b=msg("a",'<span class="dots"><i></i><i></i><i></i></span>');
+claude.use("sample").then(function(sm){if(!sm)return fb(q,b);
+var base=D.map(function(d){return{titulo:d.t,tipo:d.k,prazo:d.fim||"sem data",local:d.loc,info:d.x,link:d.u}});
+return sm("Você é o Oportunizando, assistente de oportunidades para jovens brasileiros. Responda em português simples e curto. Use SOMENTE a base abaixo, verificada em "+VERIF+". Nunca invente prazo, valor ou requisito. Se a resposta não estiver na base, diga isso e sugira conferir o site oficial. Cite o link de cada oportunidade que mencionar. Hoje é "+new Date().toLocaleDateString("pt-BR")+".\n\nPerfil: "+JSON.stringify(P)+"\n\nBase: "+JSON.stringify(base)+"\n\nPergunta: "+q,{cache:false,modelTier:"quick",onText:function(o){b.textContent=o.text;sc()}}).then(function(r){b.innerHTML=esc(r.text).replace(/(https?:\/\/[^\s)]+)/g,'<a href="$1" target="_blank" rel="noopener">link</a>');sc()})}).catch(function(){fb(q,b)});return}
+fb(q)}
+function fb(q,b){var r=local(q),h=esc(r.t);function show(){if(r.L)say(r.L.map(function(x){return card({d:x.d,dl:x.dl})}).join(""),null,1)}
+if(b){b.innerHTML=h;show()}else say(h,show)}
+var CKS={
+bolsa:["Ler o edital e conferir se você cumpre os requisitos","Separar documentos (histórico, identidade, comprovantes)","Escrever a carta de motivação e atualizar o currículo","Pedir cartas de recomendação ou certificado de inglês, se o edital exigir","Enviar com 2 dias de folga e guardar o comprovante"],
+estagio:["Conferir se seu curso e período se encaixam na vaga","Atualizar currículo e perfil no LinkedIn","Pedir à faculdade a declaração de matrícula","Fazer a inscrição e os testes online (lógica, inglês, vídeo)","Guardar o comprovante e olhar e-mail e spam todo dia"],
+aprendiz:["Conferir idade (14 a 24 anos) e escolaridade exigidas","Separar RG, CPF, carteira de trabalho e comprovantes de escola e de endereço","Montar um currículo simples, de uma página","Fazer a inscrição no site da empresa ou do CIEE","Responder rápido ao contato e ir à seleção"],
+tecnico:["Conferir vagas, cursos e requisitos de escolaridade","Separar RG, CPF, histórico escolar e comprovante de endereço","Pedir isenção da taxa, se houver (cadastro de baixa renda)","Fazer a inscrição e guardar o comprovante","Anotar datas de prova, resultado e matrícula"],
+acesso:["Conferir datas de inscrição, prova e matrícula","Separar documentos e comprovantes (renda, escola pública, cota)","Pedir isenção da taxa ou confirmar a cota que vale para você","Fazer a inscrição e guardar o comprovante","Montar o plano de estudos até a prova"],
+pos:["Conferir requisitos, linhas de pesquisa e vagas","Separar diploma, histórico e currículo Lattes","Escrever o projeto ou a carta de intenção","Conversar com o programa ou um possível orientador","Enviar com folga e guardar o comprovante"],
+emprego:["Conferir se a sua formação e a data de conclusão servem","Atualizar currículo e LinkedIn","Fazer os testes online (lógica, inglês, perfil)","Preparar a dinâmica e a entrevista em vídeo","Enviar a inscrição e acompanhar o e-mail"],
+empreender:["Ler as regras: é para ideia ou para negócio já funcionando?","Resumir a ideia em uma página (problema, público, solução)","Reunir dados do negócio e quem está no time","Fazer a inscrição ou começar o curso","Definir uma meta para concluir e guardar o comprovante"],
+curso:["Ver pré-requisitos, carga horária e datas","Separar documentos do cadastro","Fazer a inscrição e guardar o comprovante","Reservar horários fixos na semana","Concluir o primeiro módulo ou confirmar presença"]};
+var J={};try{J=JSON.parse(localStorage.getItem("opz_j")||"{}")}catch(e){J={}}
+function sv(){try{localStorage.setItem("opz_j",JSON.stringify(J))}catch(e){}}
+function kk(d){return d.u+"|"+d.t}
+function jg(d){return J[kk(d)]||null}
+function je(d){var k=kk(d);return J[k]||(J[k]={st:"Acompanhar",ck:[0,0,0,0,0]})}
+function nck(e){return e.ck.reduce(function(a,b){return a+(b?1:0)},0)}
+function board(){var T=[],steps=0,done=0,al="";D.forEach(function(d){var e=jg(d);if(e){T.push({d:d,e:e});steps+=nck(e);if(e.st==="Concluído")done++}});
+T.forEach(function(x){if(x.e.st==="Concluído"||!x.d.fim)return;var dl=days(x.d.fim),n=nck(x.e);
+if(dl<0)al+='<p class="alert">Prazo passou: '+esc(x.d.t)+'. Procure a próxima edição.</p>';
+else if(dl<=3)al+='<p class="alert"><b>'+(dl===0?"Vence hoje":"Vence em "+dl+" dia"+(dl>1?"s":""))+':</b> '+esc(x.d.t)+'. Você fez '+n+' de 5 passos.</p>'});
+var pct=T.length?Math.round(steps/(T.length*5)*100):0;
+$("jb").textContent="Minha jornada ("+T.length+")";
+var C={"Acompanhar":[],"A fazer":[],"Fazendo":[],"Concluído":[]};T.forEach(function(x){if(C[x.e.st])C[x.e.st].push(x)});
+$("kan").innerHTML='<div class="met"><div><b>'+T.length+'</b>acompanhando</div><div><b>'+pct+'%</b>dos passos feitos</div><div><b>'+done+'</b>concluídas</div></div>'+(al||'')+'<div class="kan2">'+Object.keys(C).map(function(k){return'<div class="col"><h3>'+k+'</h3>'+(C[k].length?C[k].map(function(x){return'<p><a href="'+x.d.u+'" target="_blank" rel="noopener">'+esc(x.d.t)+'</a> <small>'+nck(x.e)+'/5</small></p>'}).join(""):'<p>Nada aqui ainda.</p>')+'</div>'}).join("")+'</div>'}
+feed.addEventListener("change",function(ev){var t=ev.target,i=t.getAttribute("data-i");if(i===null)return;var d=D[i],e=je(d);
+if(t.className==="st"){e.st=t.value}
+else if(t.classList.contains("cb")){e.ck[+t.getAttribute("data-j")]=t.checked?1:0;var n=nck(e);if(n===5)e.st="Concluído";else if(n>0&&(e.st==="Acompanhar"||e.st==="A fazer"||e.st==="Concluído"))e.st="Fazendo";
+var c=t.closest(".card");c.querySelector(".st").value=e.st;c.querySelector(".pg").textContent=n+"/5";c.querySelector(".bar i").style.width=n*20+"%"}
+sv();board()});
+$("jb").onclick=function(){$("kb").hidden=!$("kb").hidden};
+[["Vence esta semana?","O que vence esta semana?"],["Só as gratuitas","Mostre as gratuitas"],["Recomeçar",""]].forEach(function(o){var b=document.createElement("button");b.type="button";b.className="chip";b.textContent=o[0];b.onclick=function(){if(!o[1]){feed.innerHTML="";board();start()}else ask(o[1])};$("sug").appendChild(b)});
+$("f").onsubmit=function(e){e.preventDefault();var q=$("q").value.trim();if(!q)return;$("q").value="";$("q").style.height="auto";ask(q)};
+$("q").addEventListener("keydown",function(e){if(e.key==="Enter"&&!e.shiftKey){e.preventDefault();$("f").requestSubmit()}});
+$("q").addEventListener("input",function(){this.style.height="auto";this.style.height=Math.min(this.scrollHeight,120)+"px"});
+board();start();
+fetch("oportunidades.json",{cache:"no-store"}).then(function(r){return r.ok?r.json():[]}).then(function(L){
+var seen={},dt=VERIF;D.forEach(function(d){seen[d.u+"|"+d.t]=1});
+L.forEach(function(d){if(d&&d.t&&d.u&&d.n&&!seen[d.u+"|"+d.t]){D.push(d);seen[d.u+"|"+d.t]=1;if(d.coletado_em&&d.coletado_em>dt)dt=d.coletado_em}});
+$("stamp").textContent="Base atualizada em "+dt.split("-").reverse().join("/")+" · "+D.length+" oportunidades";board()}).catch(function(){});
+</script>
+</body>
+</html>

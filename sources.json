@@ -1,0 +1,31 @@
+[
+  {
+    "nome": "CIEE Rio",
+    "url": "https://www.cieerj.org.br",
+    "dica": "Portal dinâmico: confirme no primeiro teste se a página de vagas carrega."
+  },
+  {
+    "nome": "Sebrae cursos online",
+    "url": "https://www.sebrae.com.br/sites/PortalSebrae/cursosonline"
+  },
+  {
+    "nome": "Estudar Fora, bolsas abertas",
+    "url": "https://www.estudarfora.org.br/melhores-bolsas-com-inscricoes-abertas/"
+  },
+  {
+    "nome": "Partiu Intercâmbio, bolsas",
+    "url": "https://partiuintercambio.org/bolsas-de-estudo/"
+  },
+  {
+    "nome": "Seja Trainee, vagas abertas",
+    "url": "https://sejatrainee.com.br/vagas-trainee-com-inscricoes-abertas/"
+  },
+  {
+    "nome": "Estágio e Trainee",
+    "url": "https://www.estagiotrainee.com"
+  },
+  {
+    "nome": "Concursos no Brasil, Jovem Aprendiz RJ",
+    "url": "https://concursosnobrasil.com/concursos/rj/"
+  }
+]
