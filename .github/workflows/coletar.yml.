@@ -1,8 +1,8 @@
 name: Coletar oportunidades
 on:
   schedule:
-    - cron: "0 9 * * *"
-  workflow_dispatch: {}
+    - cron: "0 9 * * *"   # todo dia, 6h no horário de Brasília
+  workflow_dispatch: {}    # botão "Run workflow" para testar na hora
 permissions:
   contents: write
   pull-requests: write
