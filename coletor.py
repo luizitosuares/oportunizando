@@ -81,15 +81,27 @@ def estruturar(fonte: dict, texto: str, links: list):
         f"TEXTO:\n{texto[:60000]}\n\nLINKS:\n{json.dumps(links[:300], ensure_ascii=False)}"
     )
     r = cliente.messages.create(
-        model=MODELO, max_tokens=8000, messages=[{"role": "user", "content": pedido}]
+        model=MODELO, max_tokens=16000, messages=[{"role": "user", "content": pedido}]
     )
     # a resposta pode ter blocos de raciocínio antes do texto: junta só os blocos de texto
     texto = "".join(getattr(bl, "text", "") for bl in r.content if getattr(bl, "type", "") == "text")
     bruto = re.sub(r"^```(?:json)?|```$", "", texto.strip(), flags=re.M).strip()
     i, j = bruto.find("["), bruto.rfind("]")
-    if i < 0 or j < i:
+    if i < 0:
         return []  # nada encontrado nesta página
-    return json.loads(bruto[i : j + 1])
+    trecho = bruto[i : j + 1] if j > i else bruto[i:] + "]"
+    try:
+        return json.loads(trecho)
+    except json.JSONDecodeError:
+        # lista cortada ou com um item quebrado: aproveita os itens que vieram inteiros
+        while True:
+            k = trecho.rfind("},")
+            if k < 0:
+                return []
+            try:
+                return json.loads(trecho[: k + 1] + "]")
+            except json.JSONDecodeError:
+                trecho = trecho[: k + 1]
 
 
 def main():
