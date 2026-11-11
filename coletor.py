@@ -74,6 +74,7 @@ def estruturar(fonte: dict, texto: str, links: list):
     hoje = datetime.date.today().isoformat()
     pedido = (
         f"Hoje é {hoje}. Fonte: {fonte['nome']} ({fonte['url']}).\n"
+        f"Dica sobre esta fonte: {fonte.get('dica', 'nenhuma')}.\n"
         f"Extraia SOMENTE oportunidades de estudo, bolsa, estágio, aprendizagem ou capacitação que "
         f"apareçam no conteúdo abaixo. Nunca invente prazo, valor ou requisito: use null quando a "
         f"informação não estiver no texto. Ignore oportunidades com prazo anterior a hoje. "
@@ -111,7 +112,10 @@ def main():
     with sync_playwright() as pw:
         navegador = pw.chromium.launch()
         pagina = navegador.new_page(user_agent=UA)
+        manual = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch" or not os.environ.get("GITHUB_ACTIONS")
         for f in fontes:
+            if f.get("semanal") and not manual and datetime.date.today().weekday() != 0:
+                continue  # fontes estáveis só rodam às segundas; o botão "Run workflow" roda todas
             if not permitido(f["url"]):
                 print(f"[pulado] robots.txt não permite: {f['url']}")
                 continue
@@ -127,7 +131,7 @@ def main():
                     novos = estruturar(f, texto, links)
                     for it in novos:
                         it["coletado_em"] = datetime.date.today().isoformat()
-                    itens += novos
+                    itens += novos[: f.get("max", 40)]  # limite por fonte, para nenhuma dominar a base
                     print(f"[ok] {f['nome']}: {len(novos)} itens")
                 except Exception as e:
                     print(f"[erro ao estruturar] {f['nome']}: {e}")
@@ -148,6 +152,9 @@ def main():
             finais.append(it)
         json.dump(finais, open("docs/oportunidades.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         print(f"Pronto: {len(finais)} itens em docs/oportunidades.json. REVISE antes de publicar.")
+        from collections import Counter
+        por_tipo = Counter(it.get("k", "?") for it in finais)
+        print("Por tipo:", dict(sorted(por_tipo.items(), key=lambda x: -x[1])))
 
 
 if __name__ == "__main__":
