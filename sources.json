@@ -55,11 +55,6 @@
     "dica": "Cursos técnicos gratuitos. Use k=tecnico e n=[\"em\"]."
   },
   {
-    "nome": "Senar, cursos técnicos agro",
-    "url": "https://cnabrasil.org.br/noticias/senar-abre-4-3-mil-vagas-para-cursos-tecnicos-de-nivel-medio",
-    "dica": "Cursos técnicos gratuitos. Use k=tecnico e n=[\"em\"]. Cada curso é um item."
-  },
-  {
     "nome": "Senac EAD, técnicos gratuitos",
     "url": "https://concursosnobrasil.com/educacao/2026/05/02/senac-ead-abre-mais-de-800-vagas-em-cursos-gratuitos-de-nivel-tecnico/",
     "dica": "Cursos técnicos gratuitos a distância. Use k=tecnico e n=[\"em\"]."
@@ -73,21 +68,6 @@
     "nome": "Cederj, vestibular 2027/1",
     "url": "https://cecierj.edu.br/consorcio-cederj/vestibular/2027-1/",
     "dica": "Vestibular de graduação no RJ. Use k=acesso e n=[\"em\"]."
-  },
-  {
-    "nome": "Vestibulando Web",
-    "url": "https://www.vestibulandoweb.com.br/",
-    "dica": "Vestibulares, Sisu, ProUni e Fies. Use k=acesso e n=[\"em\"]."
-  },
-  {
-    "nome": "Blog do Vestibular",
-    "url": "https://www.blogdovestibular.com/",
-    "dica": "Inscrições de vestibulares e Enem. Use k=acesso e n=[\"em\"]."
-  },
-  {
-    "nome": "Catraca Livre, Educação",
-    "url": "https://catracalivre.com.br/educacao/",
-    "dica": "Bolsas, cursos gratuitos e estágios com inscrição aberta e link."
   },
   {
     "nome": "Diário do Rio, vagas de emprego no RJ",
@@ -105,11 +85,6 @@
     "dica": "Vagas de estágio e Jovem Aprendiz no RJ. Use k=estagio ou aprendiz."
   },
   {
-    "nome": "Correio da Manhã, JUVRio",
-    "url": "https://www.correiodamanha.com.br/rio-de-janeiro/2026/10/328071-juvrio-abre-inscricoes-para-3-500-vagas-em-cursos-gratuitos.html",
-    "dica": "Cursos gratuitos para jovens no Rio. Use k=curso."
-  },
-  {
     "nome": "Diário do Rio, Naves do Conhecimento",
     "url": "https://diariodorio.com/educacao/2026/09/25/naves-do-conhecimento-abrem-7-mil-vagas-gratuitas-para-cursos-e-oficinas-em-outubro.html",
     "dica": "Cursos e oficinas gratuitas no Rio. Use k=curso."
@@ -120,63 +95,52 @@
     "dica": "Editais abertos de bolsas, mestrado e doutorado. Use k=pos ou bolsa."
   },
   {
-    "nome": "Catraca Livre, mutirão CIEE",
-    "url": "https://catracalivre.com.br/educacao/mutirao-do-ciee-tem-5-mil-vagas-de-estagio-no-rio-de-janeiro/",
-    "dica": "Mutirão do CIEE no Rio. Extraia a ação como item (k=estagio) com data e local, se ainda estiver aberta."
-  },
-  {
     "nome": "Sebrae loja, cursos online (EAD)",
     "url": "https://loja.sebrae.com.br/cursos/cursos-online",
     "max": 60,
-    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=curso, n=[\"em\",\"grad\",\"pos\"], fim=null."
+    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=empreender, n=[\"em\",\"grad\",\"pos\"], fim=null."
   },
   {
     "nome": "Sebrae loja, capacitações online",
     "url": "https://loja.sebrae.com.br/cursos",
     "max": 60,
-    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=curso, n=[\"em\",\"grad\",\"pos\"], fim=null."
-  },
-  {
-    "nome": "Sebrae loja, destaques",
-    "url": "https://loja.sebrae.com.br/catalog/category/view/s/destaques/id/15/",
-    "max": 60,
-    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=curso, n=[\"em\",\"grad\",\"pos\"], fim=null."
+    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=empreender, n=[\"em\",\"grad\",\"pos\"], fim=null."
   },
   {
     "nome": "Sebrae loja, MEI",
     "url": "https://loja.sebrae.com.br/mei",
     "max": 60,
-    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=curso, n=[\"em\",\"grad\",\"pos\"], fim=null."
+    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=empreender, n=[\"em\",\"grad\",\"pos\"], fim=null."
   },
   {
     "nome": "Sebrae loja, futuro empresário",
     "url": "https://loja.sebrae.com.br/futuro-empresario",
     "max": 60,
-    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=curso, n=[\"em\",\"grad\",\"pos\"], fim=null."
+    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=empreender, n=[\"em\",\"grad\",\"pos\"], fim=null."
   },
   {
     "nome": "Sebrae loja, educação empreendedora",
     "url": "https://loja.sebrae.com.br/educacao-empreendedora",
     "max": 60,
-    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=curso, n=[\"em\",\"grad\",\"pos\"], fim=null."
+    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=empreender, n=[\"em\",\"grad\",\"pos\"], fim=null."
   },
   {
     "nome": "Sebrae loja, produtor rural",
     "url": "https://loja.sebrae.com.br/produtor-rural",
     "max": 60,
-    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=curso, n=[\"em\",\"grad\",\"pos\"], fim=null."
+    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=empreender, n=[\"em\",\"grad\",\"pos\"], fim=null."
   },
   {
     "nome": "Sebrae loja, artesão",
     "url": "https://loja.sebrae.com.br/artesao",
     "max": 60,
-    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=curso, n=[\"em\",\"grad\",\"pos\"], fim=null."
+    "dica": "Cursos gratuitos do Sebrae. Cada curso é um item: título, tema, link do curso. Use k=empreender, n=[\"em\",\"grad\",\"pos\"], fim=null."
   },
   {
     "nome": "Sebrae loja, capacitações presenciais",
     "url": "https://loja.sebrae.com.br/eventos",
     "max": 60,
-    "dica": "Capacitações e eventos presenciais do Sebrae, com data e cidade. Use k=curso e preencha fim se houver data de inscrição."
+    "dica": "Capacitações e eventos presenciais do Sebrae, com data e cidade. Use k=empreender e preencha fim se houver data de inscrição."
   },
   {
     "nome": "Sebrae RJ, inscrições",
@@ -207,34 +171,6 @@
     "nome": "Chevening Brasil",
     "url": "https://www.chevening.org/scholarship/brazil/",
     "dica": "Bolsa Chevening para mestrado no Reino Unido, com prazo. k=bolsa, n=[\"pos\"], ing=2.",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "DAAD Brasil, bolsas",
-    "url": "https://www.daad.org.br/pt/",
-    "dica": "Bolsas do DAAD para a Alemanha. k=bolsa ou pos.",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "Fulbright Brasil",
-    "url": "https://www.fulbright.org.br/",
-    "dica": "Programas e bolsas Fulbright. k=bolsa ou pos.",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "Fundação Estudar",
-    "url": "https://www.fundacaoestudar.org.br/",
-    "dica": "Bolsas e programas para jovens (graduação e pós). k=bolsa.",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "Fundação Lemann",
-    "url": "https://fundacaolemann.org.br/",
-    "dica": "Programas, bolsas e editais para jovens. k=bolsa ou curso.",
     "max": 40,
     "semanal": true
   },
@@ -308,23 +244,9 @@
     "semanal": true
   },
   {
-    "nome": "Fies",
-    "url": "https://fiesportal.mec.gov.br/",
-    "dica": "Inscrições do Fies. k=acesso, n=[\"em\"].",
-    "max": 40,
-    "semanal": true
-  },
-  {
     "nome": "Enem, Inep",
     "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem",
     "dica": "Datas e inscrições do Enem. k=acesso, n=[\"em\"].",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "UERJ, vestibular",
-    "url": "https://www.vestibular.uerj.br/",
-    "dica": "Vestibular da UERJ, com cotas. k=acesso, n=[\"em\"], af=[\"publica\",\"negra\",\"baixa\",\"pcd\"].",
     "max": 40,
     "semanal": true
   },
@@ -336,51 +258,9 @@
     "semanal": true
   },
   {
-    "nome": "UFF, Coseac",
-    "url": "https://www.coseac.uff.br/",
-    "dica": "Concursos e vestibulares da UFF. k=acesso, n=[\"em\"].",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "Cefet-RJ, ingresso",
-    "url": "https://www.cefet-rj.br/index.php/ingresso",
-    "dica": "Ingresso em cursos técnicos e de graduação. k=acesso ou tecnico, n=[\"em\"].",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "Fatec, vestibular",
-    "url": "https://www.vestibularfatec.com.br/",
-    "dica": "Vestibular das Fatecs. k=acesso, n=[\"em\"].",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "Vestibulinho Etec",
-    "url": "https://www.vestibulinhoetec.com.br/",
-    "dica": "Vestibulinho das Etecs (cursos técnicos gratuitos). k=tecnico, n=[\"em\"].",
-    "max": 40,
-    "semanal": true
-  },
-  {
     "nome": "Faetec",
     "url": "https://www.faetec.rj.gov.br/",
     "dica": "Cursos técnicos gratuitos e processos seletivos da Faetec. k=tecnico, n=[\"em\"].",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "IFRJ, processos seletivos",
-    "url": "https://portal.ifrj.edu.br/",
-    "dica": "Processos seletivos do IFRJ (técnico e graduação). k=tecnico ou acesso, n=[\"em\"].",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "Colégio Pedro II",
-    "url": "https://www.cp2.g12.br/",
-    "dica": "Ingresso no ensino médio. k=acesso, n=[\"em\"].",
     "max": 40,
     "semanal": true
   },
@@ -390,12 +270,6 @@
     "dica": "Cursos técnicos e de aprendizagem do Senai RJ. k=tecnico ou aprendiz.",
     "max": 40,
     "semanal": true
-  },
-  {
-    "nome": "Vagas.com, Jovem Aprendiz",
-    "url": "https://www.vagas.com.br/vagas-de-jovem-aprendiz",
-    "dica": "Vagas de Jovem Aprendiz. k=aprendiz, n=[\"em\"].",
-    "max": 40
   },
   {
     "nome": "Nube, estágio",
@@ -441,20 +315,6 @@
     "max": 60
   },
   {
-    "nome": "Santander Open Academy",
-    "url": "https://app.santanderopenacademy.com/pt/",
-    "dica": "Bolsas e cursos gratuitos. k=curso ou bolsa.",
-    "max": 40,
-    "semanal": true
-  },
-  {
-    "nome": "Senac, cursos gratuitos",
-    "url": "https://www.senac.br/",
-    "dica": "Cursos gratuitos e Programa Senac de Gratuidade. k=curso ou tecnico.",
-    "max": 40,
-    "semanal": true
-  },
-  {
     "nome": "Prefeitura do Rio, ciência e tecnologia",
     "url": "https://cienciaetecnologia.prefeitura.rio/",
     "dica": "Cursos, programas e editais para jovens. k=curso ou empreender.",
@@ -483,9 +343,21 @@
     "semanal": true
   },
   {
-    "nome": "Startups.com.br",
-    "url": "https://startups.com.br/",
-    "dica": "Editais, prêmios e programas para startups com inscrição aberta. k=empreender.",
-    "max": 40
+    "nome": "Agenda de vestibulares 2027",
+    "url": "https://portalbrasil.com.br/agenda-vestibular/",
+    "dica": "Datas de inscrição e prova dos vestibulares 2027. Use k=acesso e n=[\"em\"]. Só o que ainda não passou.",
+    "max": 30
+  },
+  {
+    "nome": "Calendário UERJ 2027",
+    "url": "https://vestibulares.estrategia.com/portal/enem-e-vestibulares/vestibulares/calendario-uerj-vestibular/",
+    "dica": "Calendário do vestibular da UERJ. Use k=acesso, n=[\"em\"], af=[\"publica\",\"negra\",\"baixa\",\"pcd\"].",
+    "max": 30
+  },
+  {
+    "nome": "Pensar Cursos, cursos técnicos",
+    "url": "https://blog.pensarcursos.com.br/",
+    "dica": "Notícias de cursos técnicos gratuitos e bolsas. Use k=tecnico ou bolsa, só com inscrição aberta.",
+    "max": 30
   }
 ]
