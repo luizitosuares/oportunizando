@@ -1,5 +1,419 @@
 [
  {
+  "t": "Bolsas integrais para mestrado na Delft University of Technology",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-12-01",
+  "loc": "Delft, Holanda",
+  "ing": null,
+  "x": "Bolsas integrais Justus & Louise van Effen Excellence Scholarships para mestrado na TU Delft.",
+  "u": "https://www.estudarfora.org.br/delft-university-of-technology-bolsas-integrais/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas Eiffel (governo francês)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2027-01-08",
+  "loc": "França",
+  "ing": null,
+  "x": "Bolsas do governo francês para alunos de mestrado e doutorado na França.",
+  "u": "https://www.estudarfora.org.br/bolsas-eiffel/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas Emile Boutmy para o Sciences Po",
+  "k": "bolsa",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Sciences Po, França",
+  "ing": null,
+  "x": "Auxílio financeiro de mais de 30 mil euros para alunos aceitos em graduação ou mestrado no Sciences Po.",
+  "u": "https://www.estudarfora.org.br/emile-boutmy-bolsas-para-o-sciences-po/",
+  "s": "Estudar Fora",
+  "af": [],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Science Ambassador",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-12-14",
+  "loc": "Estados Unidos",
+  "ing": null,
+  "x": "Bolsas de graduação em exatas (ciência e tecnologia) nos EUA para mulheres.",
+  "u": "https://www.estudarfora.org.br/science-ambassador-mulheres-stem/",
+  "s": "Estudar Fora",
+  "af": [
+   "mulher"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Oxford-Weidenfeld and Hoffmann Scholarship and Leadership",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Universidade de Oxford",
+  "ing": null,
+  "x": "Bolsas integrais anuais para estudantes de países em desenvolvimento e economias emergentes realizarem mestrado em Oxford.",
+  "u": "https://www.estudarfora.org.br/inscricoes-abertas-para-bolsas-integrais-de-mestrado-na-universidade-de-oxford/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsa de graduação na American University (Washington D.C.)",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-12-15",
+  "loc": "Washington D.C., Estados Unidos",
+  "ing": null,
+  "x": "Bolsa para estudantes internacionais cobrindo anuidade e moradia.",
+  "u": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Yale Young Global Scholars",
+  "k": "bolsa",
+  "n": [
+   "em"
+  ],
+  "fim": "2027-01-12",
+  "loc": "Universidade de Yale, Estados Unidos",
+  "ing": null,
+  "x": "Bolsas que cobrem 100% do curso de verão em Yale para alunos do Ensino Médio.",
+  "u": "https://www.estudarfora.org.br/curso-verao-yale/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas para PhD em Hong Kong",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-12-01",
+  "loc": "Hong Kong",
+  "ing": null,
+  "x": "400 bolsas com benefícios de até 230 mil dólares anuais para PhD e pesquisa em Hong Kong.",
+  "u": "https://www.estudarfora.org.br/bolsa-para-phd-em-hong-kong/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Swiss Government Excellence Scholarships",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Suíça",
+  "ing": null,
+  "x": "Bolsas de doutorado e pesquisa do governo suíço, com valores de até mais de R$ 20 mil por mês.",
+  "u": "https://www.estudarfora.org.br/bolsas-de-estudo-do-governo-suico/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Mestrado na China: bolsas integrais da Yenching Academy",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-12-06",
+  "loc": "China",
+  "ing": null,
+  "x": "Mestrado de um ano com foco interdisciplinar sobre o país; bolsas cobrem despesas mensais, passagens e seguro saúde.",
+  "u": "https://www.estudarfora.org.br/mestrado-china-bolsas-yenching-academy/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas Emile Boutmy para graduação e mestrado no Sciences Po",
+  "k": "bolsa",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "França",
+  "ing": null,
+  "x": "Auxílio financeiro de até mais de 30 mil euros para alunos aceitos em cursos de graduação ou mestrado no Sciences Po.",
+  "u": "https://www.estudarfora.org.br/emile-boutmy-bolsas-para-o-sciences-po/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Science Ambassador: bolsas de graduação para mulheres em ciência e tecnologia",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-12-14",
+  "loc": "EUA",
+  "ing": null,
+  "x": "Bolsas de estudo nos EUA para mulheres que queiram fazer graduação na área de exatas.",
+  "u": "https://www.estudarfora.org.br/science-ambassador-mulheres-stem/",
+  "s": "Estudar Fora",
+  "af": [
+   "mulher"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsa para graduação na American University, em Washington D.C.",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-12-15",
+  "loc": "Washington D.C., EUA",
+  "ing": null,
+  "x": "Benefício para estudantes internacionais que inclui todos os custos de anuidade e moradia.",
+  "u": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Prep Program: preparatório gratuito para graduação no exterior",
+  "k": "curso",
+  "n": [
+   "grad"
+  ],
+  "fim": "2026-12-16",
+  "loc": null,
+  "ing": null,
+  "x": "Preparatório gratuito da Fundação Estudar para candidatura a graduação em universidades estrangeiras.",
+  "u": "https://www.estudarfora.org.br/prep-estudar-fora/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Universidade de Tel Aviv: bolsas de graduação e pós para brasileiros",
+  "k": "bolsa",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Israel",
+  "ing": null,
+  "x": "Bolsas exclusivas para brasileiros interessados em programas de graduação e mestrado da Universidade de Tel Aviv.",
+  "u": "https://www.estudarfora.org.br/tau-bolsas-integrais-exclusivas-para-brasileiros/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas integrais para mestrado na Delft University of Technology (Justus & Louise van Effen Excellence Scholarships)",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-12-01",
+  "loc": "Países Baixos",
+  "ing": null,
+  "x": "Bolsas de estudo integrais para programas de mestrado na TU Delft para estudantes internacionais excelentes.",
+  "u": "https://www.estudarfora.org.br/delft-university-of-technology-bolsas-integrais/",
+  "s": "Estudar Fora",
+  "af": [],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas Eiffel do governo francês para mestrado e doutorado",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": "2027-01-08",
+  "loc": "França",
+  "ing": null,
+  "x": "Bolsas apoiadas pelo governo francês para alunos de mestrado e doutorado que desejam estudar na França.",
+  "u": "https://www.estudarfora.org.br/bolsas-eiffel/",
+  "s": "Estudar Fora",
+  "af": [],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas para PhD nas universidades de Hong Kong",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-12-01",
+  "loc": "Hong Kong",
+  "ing": null,
+  "x": "Benefícios de até 230 mil dólares anuais para doutorado (PhD) e pesquisa em Hong Kong, com inscrições online.",
+  "u": "https://www.estudarfora.org.br/bolsa-para-phd-em-hong-kong/",
+  "s": "Estudar Fora",
+  "af": [],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas integrais para mestrado na Yenching Academy",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-12-06",
+  "loc": "China",
+  "ing": null,
+  "x": "Mestrado de um ano com foco interdisciplinar sobre a China; bolsas cobrem despesas mensais, passagens e seguro saúde.",
+  "u": "https://www.estudarfora.org.br/mestrado-china-bolsas-yenching-academy/",
+  "s": "Estudar Fora",
+  "af": [],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gates Cambridge Scholarship",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Reino Unido",
+  "ing": null,
+  "x": "Bolsas integrais financiadas por Bill Gates para pós-graduação, mestrado e PhD na Universidade de Cambridge.",
+  "u": "https://www.estudarfora.org.br/gates-cambridge-scholarship/",
+  "s": "Estudar Fora",
+  "af": [],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Prep Pós-Graduação Online",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito da Estudar Fora para ajudar na preparação para cursar pós-graduação no exterior.",
+  "u": "https://materiais.estudarfora.org.br/curso-prep-pos-graduacao/?utm_source=portal_ef&utm_medium=referral&utm_campaign=pagina-pos-graduacao&referral=portal_ef-referral-pagina-pos-graduacao--",
+  "s": "Estudar Fora",
+  "af": [],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Mestrado em Creative Writing: conheça opções de cursos no exterior",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Artigo sobre cursos de mestrado em Creative Writing (Escrita Criativa) no exterior.",
+  "u": "https://www.estudarfora.org.br/creative-writing/",
+  "s": "Estudar Fora",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Mestrado no Uruguai: veja opções de cursos e universidades",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Uruguai",
+  "ing": null,
+  "x": "Seleção de cursos de mestrado e universidades no Uruguai para estudantes internacionais, incluindo brasileiros.",
+  "u": "https://www.estudarfora.org.br/mestrado-uruguai/",
+  "s": "Estudar Fora",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Conheça o mestrado em design de jogos da NYU, a New York University",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Nova York, EUA",
+  "ing": null,
+  "x": "Mestrado em design de jogos oferecido pela New York University (NYU).",
+  "u": "https://www.estudarfora.org.br/conheca-o-mestrado-em-design-de-jogos-da-nyu-a-new-york-university/",
+  "s": "Estudar Fora",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "USC Gould School of Law: bolsas para alunos brasileiros em Mestrado em Direito (LLM)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "EUA",
+  "ing": null,
+  "x": "LLM (Master in Laws) com bolsas para alunos brasileiros na USC Gould School of Law, focado no mercado de trabalho da área.",
+  "u": "https://www.estudarfora.org.br/bolsas-mestrado-direito-eua/",
+  "s": "Estudar Fora",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Onde fazer mestrado em cibersegurança no exterior",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Artigo com opções de mestrado em cibersegurança no exterior.",
+  "u": "https://www.estudarfora.org.br/mestrado-ciberseguranca/",
+  "s": "Estudar Fora",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Onde estudar Museologia no exterior?",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Artigo com opções para estudar Museologia no exterior.",
+  "u": "https://www.estudarfora.org.br/onde-estudar-museologia-no-exterior/",
+  "s": "Estudar Fora",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Inscrições abertas para bolsas parciais de doutorado na França",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "França",
+  "ing": null,
+  "x": "Programa de cofinanciamento de doutorado em cotutela para brasileiros, promovido pela Embaixada da França no Brasil. Projetos aprovados recebem subsídio por 12 meses. O texto cita valor de 838 euros.",
+  "u": "https://www.estudarfora.org.br/doutorado-franca/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
   "t": "SBW Berlin Scholarship",
   "k": "bolsa",
   "n": [
@@ -9,10 +423,10 @@
   "fim": null,
   "loc": "Berlim ou Potsdam, Alemanha",
   "ing": null,
-  "x": "Bolsa integral para graduação e mestrado em cursos científicos, sociais e artísticos. Exige experiência profissional ou voluntária em ONGs ou organizações sem fins lucrativos. Inscrições abertas o ano todo.",
+  "x": "Financiamento integral para graduação e mestrado em áreas científicas, sociais e artísticas, com inscrições abertas o ano todo. Exige experiência profissional ou voluntária em ONGs ou organizações sem fins lucrativos.",
   "u": "https://sbw.berlin/en/portfolio-items/sbw-berlin-scholarship",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Yale Young Global Scholars (bolsas de necessidade financeira)",
@@ -21,15 +435,15 @@
    "em"
   ],
   "fim": "2027-01-06",
-  "loc": "Estados Unidos",
+  "loc": "Yale University, Estados Unidos",
   "ing": null,
-  "x": "Bolsas de necessidade financeira, de até 100%, para o curso de verão de duas semanas YYGS, destinado a alunos do ensino médio. Prazos: Early Action 15/10 e Regular Decision 06/01/2027.",
+  "x": "Bolsas de necessidade financeira de até 100% para o curso de verão de duas semanas YYGS, para estudantes do ensino médio. Prazo Regular Decision: 6 de janeiro de 2027.",
   "u": "http://globalscholars.yale.edu/",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
-  "t": "Science Ambassador Scholarship (STEM)",
+  "t": "Science Ambassador Scholarship",
   "k": "bolsa",
   "n": [
    "grad"
@@ -37,13 +451,13 @@
   "fim": "2026-12-15",
   "loc": "Estados Unidos",
   "ing": null,
-  "x": "Cinco bolsas de US$ 20 mil para cobrir custos de anuidade em graduação nas áreas STEM nos EUA. Destinada a mulheres e pessoas não binárias.",
+  "x": "Cinco bolsas de 20 mil dólares para cobrir anuidade de graduação completa em área STEM. Único requisito: pretender cursar graduação em área STEM.",
   "u": "https://www.scienceambassadorscholarship.org/stem/",
   "s": "Estudar Fora",
   "af": [
    "mulher"
   ],
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "American University Emerging Global Leader Scholarship",
@@ -54,13 +468,13 @@
   "fim": "2027-01-15",
   "loc": "Washington D.C., Estados Unidos",
   "ing": null,
-  "x": "Bolsa de graduação para estudantes internacionais dedicados à mudança cívica e social positiva, com interesse em retornar ao país de origem. Candidatura via Common Application e formulário EGLS com ensaios.",
+  "x": "Bolsa de graduação para estudantes internacionais com interesse em retornar ao país de origem e atuar em mudança cívica e social positiva, especialmente em comunidades carentes. Exige Common Application e ensaios.",
   "u": "http://www.american.edu/admissions/international/egls.cfm",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
-  "t": "Bolsas Emile Boutmy – Sciences Po",
+  "t": "Bolsas Emile Boutmy (Sciences Po)",
   "k": "bolsa",
   "n": [
    "grad",
@@ -69,10 +483,10 @@
   "fim": "2027-01-13",
   "loc": "Paris, França",
   "ing": null,
-  "x": "Apoio de até 100% da anuidade ou 9.500 euros na graduação, e prêmios de até 18.500 euros por ano no mestrado, considerando aspectos socioeconômicos e desempenho acadêmico. Prazos: graduação 13/01/2027; mestrado 18/10/2026 ou 29/11/2026.",
+  "x": "Apoio financeiro de até 100% da anuidade ou 9.500 euros para graduação, e prêmios de até 18.500 euros por ano para mestrado. Prazo de graduação: 13/01/2027; prazo de mestrado: 29/11/2026. Considera aspectos socioeconômicos e desempenho acadêmico.",
   "u": "https://www.sciencespo.fr/students/en/fees-funding/financial-aid/emile-boutmy-scholarship",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Gates Cambridge Scholarships",
@@ -83,10 +497,10 @@
   "fim": "2026-12-08",
   "loc": "Cambridge, Reino Unido",
   "ing": null,
-  "x": "Cerca de 80 bolsas integrais para pós-graduação (mestrado, doutorado ou um ano) para estudantes internacionais. Prazo de 08/12/2026 ou 06/01/2027, conforme o curso escolhido.",
+  "x": "Cerca de 80 bolsas integrais de pós-graduação (mestrado, doutorado ou curso de um ano) para estudantes internacionais. Prazo: 08/12/2026 ou 06/01/2027, conforme o curso.",
   "u": "https://www.gatescambridge.org/apply/timeline/",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Oxford-Weidenfeld and Hoffmann Scholarship and Leadership",
@@ -97,10 +511,10 @@
   "fim": null,
   "loc": "Oxford, Reino Unido",
   "ing": null,
-  "x": "Bolsas integrais de mestrado para estudantes de países em desenvolvimento e economias emergentes, combinadas com programa de liderança, mentoria de longo prazo e networking. Prazos variam de dezembro a janeiro.",
+  "x": "Bolsas integrais para mestrados selecionados da Universidade de Oxford, para estudantes de países em desenvolvimento e economias emergentes, com programa de liderança e mentoria. Prazos variam de dezembro a janeiro conforme o programa.",
   "u": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/weidenfeld-hoffmann-scholarships-and-leadership-programme",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Excellence Scholarship & Opportunity Programme (ETH Zurich)",
@@ -111,36 +525,24 @@
   "fim": "2026-11-30",
   "loc": "Zurique, Suíça",
   "ing": null,
-  "x": "Bolsas de mestrado, com duração média de dois anos, para estudantes internacionais. Inscrições de 1 a 30 de novembro.",
+  "x": "Bolsas de mestrado para estudantes internacionais, com duração média de dois anos. Inscrições de 1º a 30 de novembro.",
   "u": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
-  "t": "Bolsas de pós-graduação EPOS (DAAD)",
+  "t": "Yenching Academy – bolsas de mestrado",
   "k": "bolsa",
   "n": [
    "pos"
   ],
-  "fim": null,
-  "loc": "Alemanha",
-  "ing": null,
-  "x": "Bolsas de pós-graduação em programas de desenvolvimento econômico para profissionais de destaque de países em desenvolvimento. Incluem valor mensal, passagens aéreas, seguro-saúde e curso preparatório de alemão. Datas limite variam.",
-  "u": "https://www.daad.org.br/pt/2024/03/29/programa-epos-concede-bolsas-na-area-de-desenvolvimento-sustentavel/",
-  "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
- },
- {
-  "t": "Treinamento intensivo para jornalistas – Heinz Kühn Stiftung",
-  "k": "bolsa",
-  "n": [],
   "fim": "2026-11-30",
-  "loc": "Renânia do Norte-Vestfália, Alemanha",
+  "loc": "Pequim, China",
   "ing": null,
-  "x": "Bolsa para jornalistas de países em desenvolvimento em treinamento de até três meses, com curso de alemão, estágio em veículo de comunicação local e projeto de pesquisa. Cobre materiais, moradia, alimentação e passagens.",
-  "u": "http://www.heinz-kuehn-stiftung.de/",
+  "x": "Cerca de 120 bolsas integrais de mestrado em programa ministrado em inglês, com pesquisas interdisciplinares sobre a China. Inclui aulas obrigatórias de chinês e viagens de estudo.",
+  "u": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Hong Kong PhD Fellowship Scheme (HKPFS)",
@@ -151,128 +553,162 @@
   "fim": "2026-12-01",
   "loc": "Hong Kong",
   "ing": null,
-  "x": "400 bolsas de PhD para três anos de estudo e pesquisa, com auxílio anual de HKD 344 mil (aprox. US$ 44.150) e fundo de pesquisa de HKD 14.400 (aprox. US$ 1.840).",
+  "x": "400 bolsas de PhD por três anos, com auxílio anual de 344 mil HKD (aprox. 44.150 dólares) e fundo de pesquisa de 14.400 HKD para viagens e conferências.",
   "u": "http://cerg1.ugc.edu.hk/hkpfs/index.html",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
-  "t": "Bolsas integrais de mestrado – Yenching Academy",
+  "t": "Heinz Kühn Stiftung – treinamento para jornalistas",
+  "k": "bolsa",
+  "n": [],
+  "fim": "2026-11-30",
+  "loc": "Renânia do Norte-Vestfália, Alemanha",
+  "ing": null,
+  "x": "Bolsas para jornalistas de países em desenvolvimento em treinamento de até três meses, com curso de alemão, estágio em veículo local e projeto de pesquisa. Inclui moradia, alimentação e passagens aéreas.",
+  "u": "http://www.heinz-kuehn-stiftung.de/",
+  "s": "Estudar Fora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bolsas de pós-graduação do DAAD (programa EPOS)",
   "k": "bolsa",
   "n": [
    "pos"
   ],
-  "fim": "2026-11-30",
-  "loc": "Pequim, China",
+  "fim": null,
+  "loc": "Alemanha",
   "ing": null,
-  "x": "Cerca de 120 bolsas integrais de mestrado em pesquisas interdisciplinares sobre a China, ministrado em inglês, com aulas de língua chinesa e viagens de estudo.",
-  "u": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+  "x": "Bolsas de pós-graduação em áreas relacionadas ao desenvolvimento econômico, voltadas a profissionais de países em desenvolvimento. Cobrem valor mensal, passagens, seguro-saúde e curso preparatório de alemão. Datas limite variam.",
+  "u": "https://www.daad.org.br/pt/2024/03/29/programa-epos-concede-bolsas-na-area-de-desenvolvimento-sustentavel/",
   "s": "Estudar Fora",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Trainee Verum Partners",
   "k": "emprego",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": "2026-11-15",
   "loc": "SP, RJ, MG ou PA",
   "ing": 2,
-  "x": "Trainee de 6 meses em projetos de infraestrutura, mineração, industrial e energia, com remuneração de R$ 5.651 e vale-benefício de R$ 1.017. Vagas de Contratos e Information Management exclusivas para PcD.",
+  "x": "Trainee de 6 meses em projetos de infraestrutura, mineração, industrial e energia; remuneração de R$ 5.651 e Swile de R$ 1.017. Vagas de Contratos e Information Management exclusivas para PcD.",
   "u": "https://bit.ly/st-verum-partners",
   "s": "Seja Trainee",
   "af": [
    "pcd"
   ],
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Trainee QI Tech",
   "k": "emprego",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": null,
-  "loc": "Pinheiros (SP)",
+  "loc": "Pinheiros (São Paulo, SP)",
   "ing": 2,
-  "x": "Trainee com job rotation pelas áreas de Operações e atuação em prospecção de negócios e funil de vendas. Exige até 18 meses de formado ou conclusão prevista para o semestre atual.",
+  "x": "Trainee com job rotation pelas áreas de Operações e atuação em prospecção de negócios e funil de vendas; presencial.",
   "u": "https://bit.ly/st-qitech",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
-  "t": "Estágio iFood Gen AI",
+  "t": "Estágio iFood GEN AI",
   "k": "estagio",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": null,
   "loc": null,
   "ing": null,
-  "x": "Estágio de 6 meses com capacitações em IA e projetos reais, bolsa de R$ 5.200, trilhas AI Engineer e AI Builder. Exige matrícula em curso superior ou técnico e 6 horas diárias de disponibilidade.",
+  "x": "Estágio de 6 meses em IA com capacitações, projetos reais, mentoria e possível imersão internacional; bolsa de R$ 5.200 (estágio) ou R$ 7.000 (residência corporativa).",
   "u": "https://bit.ly/st-ifood-gen-ai",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Trainee Mottu",
   "k": "emprego",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": null,
   "loc": "Todo o país",
   "ing": null,
-  "x": "Programa de 2 anos nas trilhas de Negócios e Operacional, com possibilidade de virar sócio. Abre para graduados até dezembro/2026 em Engenharias, Matemática, Física, Administração, Economia, Estatística, Direito e correlatos.",
+  "x": "Programa de 2 anos nas trilhas de Negócios e Operacional, com possibilidade de virar sócio; início em até duas semanas após a inscrição.",
   "u": "https://bit.ly/st-mottu",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "EY FASTPASS – Consultoria (EY Parthenon)",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Belo Horizonte, Blumenau, Brasília, Campinas, Curitiba, Fortaleza, Goiânia, Porto Alegre, Recife, Ribeirão Preto, Rio de Janeiro, Salvador e São Paulo",
+  "ing": null,
+  "x": "Oportunidades em consultoria estratégica (estratégia, M&A, Corporate Finance, Due Diligence e Transformação), em modelo híbrido ou presencial; sem prazo limite.",
+  "u": "https://bit.ly/st-ey-parthenon",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Trainee Futures Softplan",
   "k": "emprego",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": "2026-11-13",
-  "loc": "Florianópolis (SC), modelo híbrido",
+  "loc": "Florianópolis (Grande Florianópolis)",
   "ing": null,
-  "x": "Jornada de 18 meses com foco em IA, atuando como ponte entre negócio e tecnologia. Salário de R$ 7 mil. Exige estar a partir da 5ª fase ou formado há até 2 anos e apresentar um projeto com IA.",
+  "x": "Jornada de 18 meses com foco em IA, atuando como ponte entre negócio e IA; salário de R$ 7 mil, modelo híbrido.",
   "u": "https://sejatrainee.com.br/trainee-softplan-vagas-abertas/",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Trainee Cargill",
   "k": "emprego",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": "2026-11-14",
   "loc": "São Paulo (SP), Ilhéus (BA), Primavera do Leste (MT), Três Lagoas (MS) e Passo Fundo (RS)",
   "ing": null,
-  "x": "Trilha intensiva de desenvolvimento em áreas comerciais, financeiras e industriais, com mentoria e metas individuais. Graduação concluída ou prevista entre jan/2025 e dez/2026.",
+  "x": "Trilha intensiva de desenvolvimento nas áreas comerciais, financeiras e industriais, com mentoria e metas individuais.",
   "u": "https://sejatrainee.com.br/trainee-cargill-vagas-abertas/",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Trainee Grant Thornton",
   "k": "emprego",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": "2026-11-15",
   "loc": null,
   "ing": null,
-  "x": "Programa nas áreas de Auditoria, Consultoria e Tributos, com trabalho híbrido e exposição internacional. Aceita estudantes a partir do 2º semestre e formados em áreas como Contábeis, Administração, Economia, Direito e Engenharias.",
+  "x": "Programa nas áreas de Auditoria, Consultoria e Tributos, com trabalho híbrido, exposição internacional e benefícios flexíveis.",
   "u": "https://sejatrainee.com.br/trainee-grant-thornton-vagas-abertas/",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
-  "t": "Trainee ACCIONA iXPA",
+  "t": "Trainee iXPA ACCIONA",
   "k": "emprego",
   "n": [
    "grad",
@@ -281,41 +717,150 @@
   "fim": null,
   "loc": "SP, ES, PR ou PB",
   "ing": 2,
-  "x": "Programa de 9 meses com mais de 300 horas de especialização e pós-graduação em Gestão de Projetos pela USP e Universidad Politécnica de Madrid. Formação entre dez/2022 e dez/2026.",
+  "x": "Programa de 9 meses com mais de 300 horas de especialização e pós-graduação em Gestão de Projetos pela USP e Universidad Politécnica de Madrid.",
   "u": "https://bit.ly/st-acciona",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Trainee Kinross",
   "k": "emprego",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": null,
   "loc": "Paracatu (MG)",
   "ing": 2,
-  "x": "Programa de 24 meses em projetos estratégicos da maior produtora de ouro do Brasil, com mentoria e benefícios. Exige engenharia de minas, geológica, metalúrgica, mecânica ou geologia, graduação a partir de dez/2023 ou prevista até dez/2026, e de 1 a 2 anos de experiência.",
+  "x": "Programa de 24 meses em projetos estratégicos de mineração, com mentoria, projetos internacionais e benefícios; exige 1 a 2 anos de experiência.",
   "u": "https://sejatrainee.com.br/kinross-uma-das-maiores-produtoras-de-ouro-do-brasil-abre-trainee-para-engenheiros/",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
   "t": "Trainee SYDLE 2027",
   "k": "emprego",
   "n": [
-   "grad"
+   "grad",
+   "pos"
   ],
   "fim": null,
-  "loc": "Belo Horizonte (MG), com testes em BH, Lavras, São João del-Rei e Viçosa",
+  "loc": "Belo Horizonte, Lavras, São João del-Rei e Viçosa",
   "ing": null,
-  "x": "Programa trainee presencial em tecnologia, sem experiência prévia exigida e com processo de 3 etapas. Aceita graduados e estudantes de cursos de longa duração.",
+  "x": "Programa trainee em tecnologia, presencial em BH, sem experiência prévia exigida; processo seletivo com 3 etapas.",
   "u": "https://sejatrainee.com.br/trainee-sydle-vagas-abertas/",
   "s": "Seja Trainee",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
-  "t": "IFB: cursos técnicos gratuitos 2027",
+  "t": "Trainee Solví 2027",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": "2027-01-15",
+  "loc": "Seis estados",
+  "ing": null,
+  "x": "Programa com 19 trilhas em soluções ambientais, distribuídas em seis estados.",
+  "u": "https://sejatrainee.com.br/grupo-solvi-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa Trainee AMH",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa trainee da AMH, empresa de saúde presente em 8 estados, com salário de R$ 6.400.",
+  "u": "https://sejatrainee.com.br/fabrica-de-lideres-amh-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Trainee Supermix",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Todas as regiões",
+  "ing": null,
+  "x": "Programa trainee da Supermix, empresa de concreto com mais de 140 filiais, com vagas para todas as regiões.",
+  "u": "https://sejatrainee.com.br/trainee-supermix-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Trainee John Deere em Tecnologia e Dados",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa trainee em Tecnologia e Dados da John Deere, com salário de R$ 9.200 e bônus de contratação de R$ 9.200.",
+  "u": "https://sejatrainee.com.br/trainee-john-deere-vagas-abertas/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Trainee BNP Paribas",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa trainee em banco global com possibilidade de imersão em Nova York.",
+  "u": "https://sejatrainee.com.br/trainee-bnp-paribas-e-a-oportunidade-de-trabalhar-em-um-banco-global/",
+  "s": "Seja Trainee",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa gratuito de formação Fin4She para jovens mulheres no mercado financeiro",
+  "k": "curso",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa gratuito de formação para jovens mulheres no mercado financeiro.",
+  "u": "https://sejatrainee.com.br/conheca-o-programa-gratuito-de-formacao-para-jovens-mulheres-no-mercado-financeiro-da-fin4she/",
+  "s": "Seja Trainee",
+  "af": [
+   "mulher"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "IFRO: cursos técnicos subsequentes 2027 (Edital nº 07/2026)",
+  "k": "tecnico",
+  "n": [
+   "em"
+  ],
+  "fim": "2026-12-13",
+  "loc": "Rondônia",
+  "ing": null,
+  "x": "Cursos técnicos subsequentes com início em 2027, presenciais e EaD com encontros presenciais. Entre as opções: Enfermagem, Edificações, Eletrotécnica, Eletromecânica, Zootecnia, Administração e Tradução e Interpretação de Libras, conforme campus ou polo.",
+  "u": "https://selecao.ifro.edu.br/unificado/2057-edital-n-2026-processo-seletivo-2027-1-cursos-tecnicos-subsequentes",
+  "s": "Quero Bolsa",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "IFB: cursos técnicos gratuitos (mais de 2 mil vagas)",
   "k": "tecnico",
   "n": [
    "em"
@@ -323,23 +868,2381 @@
   "fim": "2026-11-22",
   "loc": "Distrito Federal (dez campi)",
   "ing": null,
-  "x": "Mais de 2 mil vagas em cursos técnicos gratuitos, com opções para quem já concluiu o ensino médio.",
+  "x": "Mais de 2 mil vagas em cursos técnicos gratuitos em dez campi do Distrito Federal. A seleção inclui opções para quem já concluiu o ensino médio.",
   "u": "https://querobolsa.com.br/revista/ifb-cursos-tecnicos-gratuitos-2027",
   "s": "Quero Bolsa",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
  },
  {
-  "t": "IFRO: Processo Seletivo 2027/1 para cursos técnicos subsequentes",
+  "t": "IFB abre mais de 2 mil vagas em cursos técnicos gratuitos",
   "k": "tecnico",
   "n": [
    "em"
   ],
-  "fim": "2026-12-13",
-  "loc": "Rondônia (campi ou polos conforme o edital)",
+  "fim": "2026-11-22",
+  "loc": "Distrito Federal (dez campi)",
   "ing": null,
-  "x": "Cursos técnicos subsequentes com início em 2027 (Enfermagem, Edificações, Eletrotécnica, Eletromecânica, Zootecnia, Administração e Tradução e Interpretação de Libras), em modalidade presencial e EaD com encontros presenciais.",
-  "u": "https://selecao.ifro.edu.br/unificado/2057-edital-n-2026-processo-seletivo-2027-1-cursos-tecnicos-subsequentes",
+  "x": "Cursos técnicos gratuitos com mais de 2 mil vagas em dez campi do IFB. A seleção inclui opções para quem já concluiu o ensino médio.",
+  "u": "https://querobolsa.com.br/revista/ifb-cursos-tecnicos-gratuitos-2027",
   "s": "Quero Bolsa",
-  "coletado_em": "2026-11-10"
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Vestibular Cederj 2027/1 - Graduação semipresencial gratuita (prorrogação das inscrições)",
+  "k": "acesso",
+  "n": [
+   "em"
+  ],
+  "fim": "2026-11-15",
+  "loc": "Estado do Rio de Janeiro",
+  "ing": null,
+  "x": "Inscrições prorrogadas de 29/10 a 15/11 para cursos de graduação gratuitos na modalidade semipresencial do Consórcio Cederj. Prazo máximo para pagamento: 16/11.",
+  "u": "https://www.provaecomprova.com/vestcederj/inscricao/",
+  "s": "Cederj",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - CIEE-RJ",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "600 vagas de jovem aprendiz no RJ nos setores bancário, varejo, saúde, tecnologia e serviços.",
+  "u": "https://www.cieerj.org.br/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio - CIEE-RJ",
+  "k": "estagio",
+  "n": [
+   "em",
+   "grad"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "1.747 vagas de estágio no RJ nos setores bancário, varejo, saúde, tecnologia e serviços.",
+  "u": "https://www.cieerj.org.br/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - Catho",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "203 postos de jovem aprendiz no RJ, com destaques para MRV Engenharia, Grupo CAOA e Kalunga.",
+  "u": "https://www.catho.com.br/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio - Catho",
+  "k": "estagio",
+  "n": [
+   "em",
+   "grad"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "753 postos de estágio no RJ, com destaques para MRV Engenharia, Grupo CAOA e Kalunga.",
+  "u": "https://www.catho.com.br/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - Magazine Luiza (Magalu)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "9 postos de jovem aprendiz no RJ nas áreas de lojas, logística e escritório.",
+  "u": "https://carreiras.magazineluiza.com.br/encontre-sua-vaga",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - Grupo Pão de Açúcar (GPA)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Capital, Macaé, Petrópolis, Araruama, Búzios e outras cidades do RJ",
+  "ing": null,
+  "x": "10 vagas de jovem aprendiz no RJ, com assistência médica, odontológica, seguro de vida, vale-refeição, transporte e acesso à Universidade do Varejo GPA.",
+  "u": "https://estagiarioseaprendizesgpa.gupy.io/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio - Grupo CVLB (Casa&Vídeo)",
+  "k": "estagio",
+  "n": [
+   "em",
+   "grad"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "30 postos de estágio no RJ (Grupo CVLB, Casa&Vídeo e Le Biscuit), com salário de R$ 1.123,50 + benefícios.",
+  "u": "https://casaevideo.gupy.io/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio - Serasa Experian",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Todo o país",
+  "ing": null,
+  "x": "40 postos de estágio em todo o país, com bolsa de R$ 2.150 e pacote completo de benefícios.",
+  "u": "https://serasaexperian.com.br/carreiras/estagio-serasa-experian",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio - Transpetro",
+  "k": "estagio",
+  "n": [
+   "em",
+   "grad"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "8 vagas de estágio no RJ; bolsa de R$ 1.250 (técnico) e R$ 1.850 (superior).",
+  "u": "https://carreira.malkarh.com.br/transpetro/2025/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - Banco Nacional de Empregos (BNE)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "809 vagas de jovem aprendiz no RJ.",
+  "u": "https://www.bne.com.br/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio - Banco Nacional de Empregos (BNE)",
+  "k": "estagio",
+  "n": [
+   "em",
+   "grad"
+  ],
+  "fim": null,
+  "loc": "RJ",
+  "ing": null,
+  "x": "4.735 vagas de estágio no RJ.",
+  "u": "https://www.bne.com.br/",
+  "s": "Seu Crédito Digital",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Pé-de-meia Licenciaturas",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Ação da CAPES para estudantes de licenciatura; detalhes não constam no texto.",
+  "u": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/pe-de-meia-licenciaturas",
+  "s": "CAPES",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa de Desenvolvimento da Pós-Graduação (PDPG) – Formação Profissional de Nutricionistas",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa da CAPES para formação de profissionais nutricionistas em pós-graduação; detalhes não constam no texto.",
+  "u": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/formacao-de-recursos-humanos-em-areas-estrategicas/programa-de-desenvolvimento-da-pos-graduacao-pdpg-formacao-profissional-de-nutricionistas",
+  "s": "CAPES",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa de Doutorado-sanduíche no Exterior (PDSE)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Exterior",
+  "ing": null,
+  "x": "Bolsas para doutorandos realizarem estágio de doutorado-sanduíche no exterior; detalhes não constam no texto.",
+  "u": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-doutorado-sanduiche-no-exterior-pdse",
+  "s": "CAPES",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Plano Nacional de Formação de Professores da Educação Básica (Parfor)",
+  "k": "curso",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Plano nacional de formação de professores da educação básica; detalhes não constam no texto.",
+  "u": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/educacao-basica/parfor/parfor",
+  "s": "CAPES",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gestão financeira",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 10h sobre finanças.",
+  "u": "https://loja.sebrae.com.br/gest-o-financeira-1-372000026927",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Marketing digital e redes sociais",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 7h sobre marketing digital e redes sociais.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-e-redes-sociais-1-372000114127",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gestão de pessoas",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 8h sobre gestão de pessoas.",
+  "u": "https://loja.sebrae.com.br/gest-o-de-pessoas-1-371440100237",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Marketing digital para sua empresa: primeiros passos",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 9h sobre primeiros passos em marketing digital.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-para-sua-empresa-primeiros-passos-1-372000031607",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Atendimento ao cliente",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 8h sobre atendimento ao cliente.",
+  "u": "https://loja.sebrae.com.br/atendimento-ao-cliente-1-372000017766",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Como definir preço de venda",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 6h sobre definição de preço de venda.",
+  "u": "https://loja.sebrae.com.br/como-definir-o-preco-de-venda-1-371440103446",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Aprender a empreender",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 16h sobre empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/aprender-a-empreender-1-372000001028",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Inteligência Emocional",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 15h sobre inteligência emocional.",
+  "u": "https://loja.sebrae.com.br/inteligencia-emocional-1-372000069335",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Como controlar o fluxo de caixa",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 10h sobre controle de fluxo de caixa.",
+  "u": "https://loja.sebrae.com.br/como-controlar-o-fluxo-de-caixa-1-2151",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Marketing digital: estratégias e práticas para conquistar clientes",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 8h sobre estratégias de marketing digital.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-estrategias-e-praticas-para-conquistar-clientes-1-372000110038",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Curso de Exportação",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 20h sobre exportação.",
+  "u": "https://loja.sebrae.com.br/curso-de-exportac-o-1-a0jbl000001h2u2uaa",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Dropshipping",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 7h sobre dropshipping.",
+  "u": "https://loja.sebrae.com.br/dropshipping-1-a0jv2000004pwbtmag",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Atendimento inclusivo PCD e neurodiversidade",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre atendimento inclusivo a PCD e neurodiversidade.",
+  "u": "https://loja.sebrae.com.br/atendimento-inclusivo-pcd-e-neurodiversidade-1-a0jv2000003uisfmaa",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Análise de resultados em marketing digital",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 7h sobre análise de resultados em marketing digital.",
+  "u": "https://loja.sebrae.com.br/analise-de-resultados-em-marketing-digital-1-372000114120",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Marketing digital para sua empresa: equipe comercial",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 10h sobre marketing digital para equipe comercial.",
+  "u": "https://loja.sebrae.com.br/marketing-digital-para-sua-empresa-equipe-comercial-1-372000031611",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "O que fazer para começar a vender online?",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 7h sobre vendas online.",
+  "u": "https://loja.sebrae.com.br/o-que-fazer-para-comecar-a-vender-online-1-3713589375",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Marketing digital para sua empresa: reforçando sua presença",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito sobre presença digital da empresa (duração indicada como 0h no texto).",
+  "u": "https://loja.sebrae.com.br/marketing-digital-para-sua-empresa-reforcando-sua-presenca-1-377235868",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Customer success - Como conquistar e manter clientes",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 10h sobre conquista e retenção de clientes.",
+  "u": "https://loja.sebrae.com.br/customer-success-como-conquistar-e-manter-clientes-1-372000017996",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Passo a passo para alcançar o sucesso financeiro",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 1h sobre sucesso financeiro.",
+  "u": "https://loja.sebrae.com.br/passo-a-passo-para-alcancar-o-sucesso-financeiro-1-372000019237",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Faça suas redes bombarem com o Canva",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre uso do Canva nas redes sociais.",
+  "u": "https://loja.sebrae.com.br/faca-suas-redes-bombarem-com-o-canva-1-372000090794",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Neuromarketing",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 12h sobre neuromarketing.",
+  "u": "https://loja.sebrae.com.br/neuromarketing-1-312000052125",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Marketing nas Mídias Sociais",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 10h sobre marketing em mídias sociais.",
+  "u": "https://loja.sebrae.com.br/marketing-nas-midias-sociais-1-312000052129",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Marketing e Negociação Internacional",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 8h sobre marketing e negociação internacional.",
+  "u": "https://loja.sebrae.com.br/marketing-e-negociac-o-internacional-1-312000051012",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Arquétipos de marca",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 10h sobre arquétipos de marca.",
+  "u": "https://loja.sebrae.com.br/arquetipos-de-marca-1-372000067318",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Avaliando as vendas do seu negócio",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre avaliação de vendas.",
+  "u": "https://loja.sebrae.com.br/avaliando-as-vendas-do-seu-negocio-1-302000002226",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Comunicação no processo de vendas para pequenos negócios",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 7h sobre comunicação em vendas.",
+  "u": "https://loja.sebrae.com.br/comunicac-o-no-processo-de-vendas-para-pequenos-negocios-1-372000053300",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gestão estratégica para comércio eletrônico",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre gestão de comércio eletrônico.",
+  "u": "https://loja.sebrae.com.br/gest-o-estrategica-para-comercio-eletronico-1-372000026926",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Reforma Tributária",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre a reforma tributária.",
+  "u": "https://loja.sebrae.com.br/reforma-tributaria-1-372000123006",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Planejamento financeiro para acesso ao crédito",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 10h sobre planejamento financeiro para crédito.",
+  "u": "https://loja.sebrae.com.br/planejamento-financeiro-para-acesso-ao-credito-1-372000113579",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Para onde vai meu dinheiro?",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre controle de gastos pessoais e empresariais.",
+  "u": "https://loja.sebrae.com.br/para-onde-vai-meu-dinheiro-1-3712431840",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gestão Financeira - Parceria BNB",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 6h sobre gestão financeira, em parceria com o BNB.",
+  "u": "https://loja.sebrae.com.br/gest-o-financeira-parceria-bnb-1-3712442929",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estratégia financeira para o crescimento",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre estratégia financeira para crescimento.",
+  "u": "https://loja.sebrae.com.br/estrategia-financeira-para-o-crescimento-1-372000018036",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Modelagem financeira para startups",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre modelagem financeira para startups.",
+  "u": "https://loja.sebrae.com.br/modelagem-financeira-para-startups-1-372000019235",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Captação de recursos - DESCOMPLICA",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 24h sobre captação de recursos.",
+  "u": "https://loja.sebrae.com.br/captac-o-de-recursos-descomplica-1-372000075989",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Controle da movimentação financeira",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre controle da movimentação financeira.",
+  "u": "https://loja.sebrae.com.br/controle-da-movimentac-o-financeira-1-302000002221",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Fluxo de caixa como ferramenta de gestão para o seu negócio",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre fluxo de caixa como ferramenta de gestão.",
+  "u": "https://loja.sebrae.com.br/fluxo-de-caixa-como-ferramenta-de-gest-o-para-o-seu-negocio-1-302000001660",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Renegociação de dívidas",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre renegociação de dívidas.",
+  "u": "https://loja.sebrae.com.br/renegociac-o-de-dividas-1-372000069343",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Fluxo de Caixa para Beleza",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre fluxo de caixa para o setor de beleza.",
+  "u": "https://loja.sebrae.com.br/fluxo-de-caixa-para-beleza-1-372000069340",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Fluxo de caixa para moda",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre fluxo de caixa para o setor de moda.",
+  "u": "https://loja.sebrae.com.br/fluxo-de-caixa-para-moda-1-372000069339",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Preço de vendas para beleza",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre preço de vendas para beleza.",
+  "u": "https://loja.sebrae.com.br/preco-de-vendas-para-beleza-1-372000069337",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Preço de vendas para alimentação fora do lar",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre preço de vendas para alimentação fora do lar.",
+  "u": "https://loja.sebrae.com.br/preco-de-vendas-para-alimentac-o-fora-do-lar-1-372000069338",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Preço de vendas para moda",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 3h sobre preço de vendas para moda.",
+  "u": "https://loja.sebrae.com.br/preco-de-vendas-para-moda-1-372000069336",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Custos para produzir no campo",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 4h sobre custos de produção no campo.",
+  "u": "https://loja.sebrae.com.br/custos-para-produzir-no-campo-1-372000026895",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Educação financeira empresarial",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre educação financeira empresarial.",
+  "u": "https://loja.sebrae.com.br/educac-o-financeira-empresarial-1-372000018001",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Microcrédito consciente",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 4h sobre microcrédito consciente.",
+  "u": "https://loja.sebrae.com.br/microcredito-consciente-1-372000027024",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Faça da comunicação um recurso para melhorar suas vendas - chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre comunicação para melhorar vendas.",
+  "u": "https://loja.sebrae.com.br/faca-da-comunicac-o-um-recurso-para-melhorar-suas-vendas-chatbot-372000031521",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Presença digital: como construir a sua e qual a importância - chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre construção de presença digital.",
+  "u": "https://loja.sebrae.com.br/presenca-digital-como-construir-a-sua-e-qual-a-importancia-chatbot-372000031448",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Curso de gestão - Indicadores para seu negócio",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre indicadores de gestão.",
+  "u": "https://loja.sebrae.com.br/curso-de-gest-o-indicadores-para-seu-negocio-372000005125",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Formalização da propriedade rural: por onde começar? - Chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre formalização da propriedade rural.",
+  "u": "https://loja.sebrae.com.br/formalizac-o-da-propriedade-rural-por-onde-comecar-chatbot-372000021558",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Aprenda a vender pela internet com marketing digital",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre vendas pela internet.",
+  "u": "https://loja.sebrae.com.br/aprenda-a-vender-pela-internet-com-marketing-digital-372000005127",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Alcance seu cliente melhorando a divulgação do seu negócio - chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre divulgação do negócio.",
+  "u": "https://loja.sebrae.com.br/alcance-seu-cliente-melhorando-a-divulgac-o-do-seu-negocio-chatbot-372000032280",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Conhecendo e valorizando o seu cliente",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre relacionamento com o cliente.",
+  "u": "https://loja.sebrae.com.br/conhecendo-e-valorizando-o-seu-cliente-372000005119",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "O caminho para a formalização: benefícios e responsabilidades - Chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre benefícios e responsabilidades da formalização.",
+  "u": "https://loja.sebrae.com.br/o-caminho-para-a-formalizac-o-beneficios-e-responsabilidades-chatbot-372000005128",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "A formação de preço para o meu tipo de negócio - Chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre formação de preço.",
+  "u": "https://loja.sebrae.com.br/a-formac-o-de-preco-para-o-meu-tipo-de-negocio-chatbot-372000005116",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Quando e como captar recursos para negócios criativos? - Chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre captação de recursos para negócios criativos.",
+  "u": "https://loja.sebrae.com.br/quando-e-como-captar-recursos-para-negocios-criativos-chatbot-372000018677",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Faça do Facebook uma ferramenta para aumentar as vendas - chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre vendas pelo Facebook.",
+  "u": "https://loja.sebrae.com.br/faca-do-facebook-uma-ferramenta-para-aumentar-as-vendas-chatbot-372000032283",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Desenquadramento do MEI e novas possibilidades de tributação",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso gratuito de 2h sobre desenquadramento do MEI e tributação.",
+  "u": "https://loja.sebrae.com.br/desenquadramento-do-mei-e-novas-possibilidades-de-tributac-o-372000005122",
+  "s": "Sebrae loja - Cursos EAD",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Precificação na prática",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Online",
+  "ing": null,
+  "x": "Curso autoinstrucional gratuito de 12h sobre finanças e precificação de produtos.",
+  "u": "https://loja.sebrae.com.br/precificac-o-na-pratica-a0jbl000001igxtuac",
+  "s": "Sebrae - Capacitações online (loja.sebrae.com.br)",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Atitudes empreendedoras e tipos de empreendedorismo",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 10h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/atitudes-empreendedoras-e-tipos-de-empreendedorismo-1-372000000953",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "O mundo do trabalho",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 6h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/o-mundo-do-trabalho-1-372000000954",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Bora empreender",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 40h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/bora-empreender-1-372000002538",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Palestra empreendedorismo em dois tempos",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 2h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/palestra-empreendedorismo-em-dois-tempos-1-372000027100",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Formação pedagógica: empreendedorismo e BNCC",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 40h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/formac-o-pedagogica-empreendedorismo-e-bncc-1-372000029108",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JEPP - Professor - 1º ano - Descobertas empreendedoras no jardim sensorial",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 15h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/jepp-professor-1-ano-descobertas-empreendedoras-no-jardim-sensorial-1-372000031272",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JEPP - Professor - 2º ano - Descobrindo alimentos e temperos naturais",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 15h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/jepp-professor-2-ano-descobrindo-alimentos-e-temperos-naturais-1-372000031273",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JEPP - Professor - 3º ano - Brinquedos ecológicos",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 15h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/jepp-professor-3-ano-brinquedos-ecologicos-1-372000031275",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JEPP - Professor - 4º ano - Produções culturais criativas",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 15h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/jepp-professor-4-ano-producoes-culturais-criativas-1-372000031276",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JEPP - Professor - 5º ano - Sabores e cores regionais",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 15h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/jepp-professor-5-ano-sabores-e-cores-regionais-1-372000031277",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JEPP - Professor - 6º ano - Soluções sustentáveis",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito de 15h sobre o tema Empreendedorismo.",
+  "u": "https://loja.sebrae.com.br/jepp-professor-6-ano-solucoes-sustentaveis-1-372000031278",
+  "s": "Sebrae loja, educação empreendedora",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Imersão Empreendedora Sebrae",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito; duração informada como 0h.",
+  "u": "https://loja.sebrae.com.br/imers-o-empreendedora-sebrae-1-3714474115",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Emissor NF-e Sebrae",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito sobre o tema Leis, com duração de 2h.",
+  "u": "https://loja.sebrae.com.br/emissor-nf-e-sebrae-1-272000104774",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Solução Advogados Sebrae RJ-OAB",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito sobre Empreendedorismo, com duração de 30h.",
+  "u": "https://loja.sebrae.com.br/soluc-o-advogados-oab-1-372000083946",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Imersão Empreendedora em IA - Always On",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "WhatsApp/Telegram",
+  "ing": null,
+  "x": "Curso autoinstrucional gratuito sobre Empreendedorismo, com duração de 5h.",
+  "u": "https://loja.sebrae.com.br/imers-o-empreendedora-em-ia-always-on-1-3714337296",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Tendências: o futuro do seu negócio - chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "WhatsApp/Telegram",
+  "ing": null,
+  "x": "Curso autoinstrucional gratuito sobre Mercado e Vendas, com duração de 2h.",
+  "u": "https://loja.sebrae.com.br/tendencias-o-futuro-do-seu-negocio-chatbot-372000031449",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Análise de métricas nas vendas on-line - chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "WhatsApp/Telegram",
+  "ing": null,
+  "x": "Curso autoinstrucional gratuito sobre Mercado e Vendas, com duração de 2h.",
+  "u": "https://loja.sebrae.com.br/analise-de-metricas-nas-vendas-on-line-chatbot-372000066268",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Como ter ideias criativas e inovar na prática?",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "WhatsApp/Telegram",
+  "ing": null,
+  "x": "Curso autoinstrucional gratuito sobre Inovação, com duração de 1h.",
+  "u": "https://loja.sebrae.com.br/como-ter-ideias-criativas-e-inovar-na-pratica-1-372000025980",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Seja mestre na gestão do seu tempo - chatbot",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "WhatsApp/Telegram",
+  "ing": null,
+  "x": "Curso autoinstrucional gratuito sobre Empreendedorismo, com duração de 2h.",
+  "u": "https://loja.sebrae.com.br/seja-mestre-na-gest-o-do-seu-tempo-chatbot-372000031678",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Método CIS",
+  "k": "curso",
+  "n": [
+   "em",
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "online",
+  "ing": null,
+  "x": "Curso online gratuito sobre Empreendedorismo, com duração de 40h.",
+  "u": "https://loja.sebrae.com.br/metodo-cis-1-3713805394",
+  "s": "Sebrae loja",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Mestrados da Universidade de Macau no ano letivo de 2027/2028",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2027-04-30",
+  "loc": "Macau, China",
+  "ing": null,
+  "x": "Candidaturas a mestrados da Universidade de Macau, com ensino principalmente em inglês. A universidade oferece bolsas de estudo para candidatos a mestrado com mérito.",
+  "u": "https://oportunidadesinternacionais.ufsc.br/2026/10/28/china-candidaturas-abertas-para-mestrados-da-universidade-de-macau-no-ano-letivo-de-20272028/",
+  "s": "UFSC - Oportunidades Internacionais",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Chevening Scholarship (mestrado no Reino Unido)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Reino Unido",
+  "ing": null,
+  "x": "Bolsa do Governo do Reino Unido para brasileiros fazerem mestrado em universidades britânicas. Requer diploma de graduação, dois anos de experiência profissional e potencial de liderança. Cobre mensalidades, passagens, visto e auxílio mensal.",
+  "u": "https://www.chevening.org/",
+  "s": "UFSC - Oportunidades Internacionais",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Cátedra Dra. Ruth Cardoso na Georgetown University (Fulbright Brasil)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-11-15",
+  "loc": "Georgetown University, Estados Unidos",
+  "ing": 2,
+  "x": "Bolsa para professores e pesquisadores brasileiros nas áreas de Antropologia, Ciência Política, Sociologia e História do Brasil, para um ou dois semestres de docência, orientação e pesquisa. Inclui US$ 66.000 para um ano ou US$ 32.100 para um semestre, visto J-1 e seguro de saúde.",
+  "u": "https://fulbright.org.br/bolsas-para-brasileiros/catedra-dra-ruth-cardoso-georgetown/?utm_source=Universidades&utm_campaign=edfea2e39e-CATEDRA_Ruth_unis&utm_medium=email&utm_term=0_-80a9a650a4-78175853",
+  "s": "UFSC - Oportunidades Internacionais",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Chevening Scholarships (mestrado no Reino Unido)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Reino Unido",
+  "ing": 2,
+  "x": "Bolsa do governo do Reino Unido para mestrado (taught, de um ano) no Reino Unido. Inscrições para 2027-2028 já encerradas; o texto não informa a data do próximo prazo.",
+  "u": "https://www.chevening.org/scholarships/",
+  "s": "Chevening Brasil",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gates Cambridge Scholarships",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Universidade de Cambridge",
+  "ing": 2,
+  "x": "Bolsa internacional de pós-graduação para estudantes com potencial de liderança social e desejo de melhorar a vida das pessoas.",
+  "u": "https://www.gatescambridge.org/apply/",
+  "s": "Gates Cambridge",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "CAPES prorroga prazo para submissão de propostas de pesquisa na Amazônia Legal",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-11-19",
+  "loc": "Amazônia Legal",
+  "ing": null,
+  "x": "Inscrições prorrogadas para propostas de pesquisa na Amazônia Legal, com resultados preliminares comunicados pelo SICAPES.",
+  "u": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-prorroga-prazo-para-submissao-de-propostas-de-pesquisa-na-amazonia-legal",
+  "s": "CAPES - Notícias",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Atenção, candidatos ao PDSE! Inscrições abertas (PDSE)",
+  "k": "bolsa",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Inscrições para o PDSE, com etapas de seleção, homologação, avaliação documental e previsão de mobilidade acadêmica internacional.",
+  "u": "https://www.gov.br/capes/pt-br/assuntos/noticias/atencao-candidatos-ao-pdse-as-inscricoes-abrem-nesta-terca-20",
+  "s": "CAPES - Notícias",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Novas edições dos Programas de Iniciação Científica e Iniciação Tecnológica (IC e IT)",
+  "k": "bolsa",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Chamadas com uma única etapa; o proponente deve indicar o bolsista na submissão.",
+  "u": "https://www.faperj.br/?id=1115.7.1",
+  "s": "FAPERJ",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Seleção do Mestrado Profissional PPGTDS - Turma 2027",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro, RJ (NIDES/UFRJ)",
+  "ing": null,
+  "x": "Processo seletivo para o mestrado profissional do PPGTDS (turma 2027), com inscrição online, edital e etapas de homologação, prova escrita e recursos.",
+  "u": "https://forms.tic.ufrj.br/index.php/679382?lang=pt-BR",
+  "s": "PPGTDS, UFRJ",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Seleção da Especialização em Tecnologia Social - Turma 2026-2027",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro, RJ (NIDES/UFRJ)",
+  "ing": null,
+  "x": "Processo seletivo para a especialização em Tecnologia Social (turma 2026-2027), com edital, homologações, resultados preliminar e final e validação de vagas afirmativas.",
+  "u": "https://drive.google.com/drive/folders/11Z7cp9xYzmpz6oLSizx4_fXKqMyMYsCQ?usp=drive_link",
+  "s": "PPGTDS, UFRJ",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Mestrado Profissional em Administração de Empresas 2027 - Inscrições abertas",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Edital e diretrizes do processo seletivo para a turma de 2027 do Mestrado Profissional em Administração do IAG/PUC-Rio.",
+  "u": "https://iag.puc-rio.br/curso/mestrado-profissional/",
+  "s": "PUC-Rio - IAG Escola de Negócios",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Exame Nacional do Ensino Médio (Enem)",
+  "k": "acesso",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Exame que pode ser usado para acesso ao Sisu e ao Prouni, e para processos do Fies. Aplicado em dois dias, com 180 questões objetivas e uma redação.",
+  "u": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem",
+  "s": "Inep",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Pós-graduação gratuita em Administração Estratégica de Negócios",
+  "k": "pos",
+  "n": [
+   "pos"
+  ],
+  "fim": "2026-11-27",
+  "loc": "Duque de Caxias",
+  "ing": null,
+  "x": "30 vagas gratuitas para o curso de pós-graduação em Administração Estratégica de Negócios; inscrições até 27/11.",
+  "u": "https://www.faetec.rj.gov.br/inicial-faetec/publicacoes/",
+  "s": "Faetec",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Aprendizagem Profissional em Nível Técnico Médio",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Estado do Rio de Janeiro",
+  "ing": null,
+  "x": "Aprendizagem com matrícula em curso técnico para jovens cursando o 2º ou 3º ano do Ensino Médio ou que já concluíram o Ensino Médio, com contrato de até dois anos.",
+  "u": "https://www.firjan.com.br/senai/",
+  "s": "Senai RJ",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Cursos técnicos Firjan SENAI",
+  "k": "tecnico",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Estado do Rio de Janeiro",
+  "ing": null,
+  "x": "Cursos técnicos para diversos setores industriais, com aulas práticas em oficinas e laboratórios, realizados nas escolas fixas e móveis, in company ou a distância.",
+  "u": "https://firjansenai.com.br/",
+  "s": "Senai RJ",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa de Estágio | Residencial Mar de Trindade - São Gonçalo/RJ",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "São Gonçalo - RJ",
+  "ing": null,
+  "x": "Programa de estágio da MRV&CO, presencial, em residencial de São Gonçalo. Publicada em 10/11/2026.",
+  "u": "https://programadeestagiomrveco.gupy.io/job/eyJqb2JJZCI6MTI3NjQwMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio em Obra | Rio de Janeiro/RJ",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Estágio em obra da Geração Cyrela, presencial. Publicada em 09/11/2026.",
+  "u": "https://geracaocyrela.gupy.io/job/eyJqb2JJZCI6MTI4NTEyNjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa de Estágio do CEPEL",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Estágio nas áreas de Engenharia, Administração, Ciência da Computação ou correlatas, presencial. Publicada em 09/11/2026.",
+  "u": "https://estagiocepel.gupy.io/job/eyJqb2JJZCI6MTEyNDYyNjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio em Mediação Escolar |EFAI| CEL BARRA",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Estágio em mediação escolar no CEL Intercultural School (EFAI, CEL Barra), presencial. Publicada em 06/11/2026.",
+  "u": "https://cel.gupy.io/job/eyJqb2JJZCI6MTI3MDU2OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Nube - Oportunidade de Estágio em Pedagogia - 388866",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Oportunidade de estágio em Pedagogia pela Nube, presencial. Publicada em 06/11/2026.",
+  "u": "https://nubevagasefetivas.gupy.io/job/eyJqb2JJZCI6MTI4NDgxODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Pessoa estagiária - Contencioso de Patentes",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Estágio na área de Contencioso de Patentes (DANIEL), híbrido. Publicada em 05/11/2026.",
+  "u": "https://daniel-ip.gupy.io/job/eyJqb2JJZCI6MTI4NDI5MTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio de Mediação - Taquara e Pechincha",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Estágio de mediação nas unidades de Taquara e Pechincha (Matriz Educação), presencial. Publicada em 05/11/2026.",
+  "u": "https://matrizeducacao.gupy.io/job/eyJqb2JJZCI6MTI4NDE1NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Estágio | Consultivo de Marcas",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Estágio na área de Consultivo de Marcas (DANIEL), híbrido. Publicada em 03/11/2026.",
+  "u": "https://daniel-ip.gupy.io/job/eyJqb2JJZCI6MTI4MjY5MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa de Estágio | Residencial Monet - Duque de Caxias/RJ",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Duque de Caxias - RJ",
+  "ing": null,
+  "x": "Programa de estágio da MRV&CO no Residencial Monet, presencial. Publicada em 03/11/2026.",
+  "u": "https://programadeestagiomrveco.gupy.io/job/eyJqb2JJZCI6MTI3ODIyOTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa de Estágio | Residencial Monet - Duque de Caxias/RJ",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Duque de Caxias - RJ",
+  "ing": null,
+  "x": "Programa de estágio da MRV&CO no Residencial Monet, presencial. Publicada em 03/11/2026.",
+  "u": "https://programadeestagiomrveco.gupy.io/job/eyJqb2JJZCI6MTI3ODU3MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa de Estágio | Residencial Encantos da Zona Norte - Inhaúma/RJ",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Programa de estágio da MRV&CO no Residencial Encantos da Zona Norte, presencial. Publicada em 03/11/2026.",
+  "u": "https://programadeestagiomrveco.gupy.io/job/eyJqb2JJZCI6MTI3NjYyMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "AZZAS F&L | Estágio em Desenvolvimento de Fornecedores | Operações",
+  "k": "estagio",
+  "n": [
+   "grad"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Estágio em Desenvolvimento de Fornecedores na área de Operações (AZZAS F&L), híbrido. Publicada em 03/11/2026.",
+  "u": "https://azzasfashion.gupy.io/job/eyJqb2JJZCI6MTI3OTA0MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - Híbrido (Instituto Infnet)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz em modelo híbrido, também para PcD. Publicada em 10/11/2026.",
+  "u": "https://vagas-infnet.gupy.io/job/eyJqb2JJZCI6MTI4NjM0MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz em Gente & Gestão Docente - Núcleo Elite (RJ)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz em Gente & Gestão Docente, Núcleo Elite, em modelo híbrido. Publicada em 09/11/2026.",
+  "u": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI4NjA0NzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - São Gonçalo (3C Services)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "São Gonçalo - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz presencial, também para PcD. Publicada em 09/11/2026.",
+  "u": "https://3cservices.gupy.io/job/eyJqb2JJZCI6MTI4NTg5MDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JOVEM APRENDIZ OPERACIONAL (MRO)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz operacional presencial, também para PcD. Publicada em 09/11/2026.",
+  "u": "https://mroativa.gupy.io/job/eyJqb2JJZCI6MTI4NTc3ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JOVEM APRENDIZ - RIO DAS OSTRAS (Barcelos)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio das Ostras - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz presencial, também para PcD. Publicada em 09/11/2026.",
+  "u": "https://barcelos.gupy.io/job/eyJqb2JJZCI6MTI4NTc1OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz | Treinamento & Desenvolvimento (RH) (Genial Investimentos)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz na área de Treinamento & Desenvolvimento (RH), presencial. Publicada em 09/11/2026.",
+  "u": "https://genial.gupy.io/job/eyJqb2JJZCI6MTI4NTY0NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "FARM | Jovem Aprendiz | RIO DESIGN BARRA",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz presencial no Rio Design Barra, também para PcD. Publicada em 07/11/2026.",
+  "u": "https://farm.gupy.io/job/eyJqb2JJZCI6MTI4MjMxNjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - Controladoria (Karoon Energy Brasil)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz na área de Controladoria, em modelo híbrido, também para PcD. Publicada em 06/11/2026.",
+  "u": "https://karoonbrasil.gupy.io/job/eyJqb2JJZCI6MTI4NDk5OTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa Jovem Aprendiz - Escritório (TIM Brasil)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga do programa de jovem aprendiz para escritório, em modelo híbrido. Publicada em 06/11/2026.",
+  "u": "https://vemprotime.gupy.io/job/eyJqb2JJZCI6MTI4MzUxODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "JOVEM APRENDIZ - RIO DE JANEIRO/RJ (Qualicorp)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz presencial. Publicada em 06/11/2026.",
+  "u": "https://carreirasquali.gupy.io/job/eyJqb2JJZCI6MTI4Mzg5NTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - FRIBOI - Logística (JBS)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Belford Roxo - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz na área de logística do FRIBOI, presencial. Publicada em 06/11/2026.",
+  "u": "https://grupojbs.gupy.io/job/eyJqb2JJZCI6MTI4NDg5ODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Jovem Aprendiz - Icaraí (Shoulder)",
+  "k": "aprendiz",
+  "n": [
+   "em"
+  ],
+  "fim": null,
+  "loc": "Niterói - RJ",
+  "ing": null,
+  "x": "Vaga de jovem aprendiz presencial no Icaraí. Publicada em 06/11/2026.",
+  "u": "https://shoulder.gupy.io/job/eyJqb2JJZCI6MTI4MDA2MjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Vendedor Trainee | Palhoça SC",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Palhoça - SC",
+  "ing": null,
+  "x": "Vaga efetiva de trainee em vendas na Baterias Moura, presencial.",
+  "u": "https://redemoura.gupy.io/job/eyJqb2JJZCI6MTI4MjcyOTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "FARM | Gerente Trainee | Ipanema",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga efetiva de gerente trainee na FARM, presencial.",
+  "u": "https://farm.gupy.io/job/eyJqb2JJZCI6MTI2ODYxMjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gerente de Plantão Trainee (Jardim Nossa Senhora Auxiliadora - Campinas/SP)",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Campinas - SP",
+  "ing": null,
+  "x": "Vaga efetiva de gerente de plantão trainee no McDonald's (Arcos Dorados), presencial.",
+  "u": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI4NjE4NTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Mecânico Trainee",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Eunápolis - BA",
+  "ing": null,
+  "x": "Vaga efetiva de mecânico trainee na Veracel, presencial.",
+  "u": "https://vemparaaveracel.gupy.io/job/eyJqb2JJZCI6MTI3NjI3MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gerente de Plantão Trainee (Itoupava Norte - Blumenau/SC)",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Blumenau - SC",
+  "ing": null,
+  "x": "Vaga efetiva de gerente de plantão trainee no McDonald's (Arcos Dorados), presencial.",
+  "u": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI4NTY5NTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Farmacêutico Trainee",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Taboão da ... - SP",
+  "ing": null,
+  "x": "Vaga efetiva de farmacêutico trainee no Hospital Geral de Pirajussara - SPDM Afiliadas, presencial.",
+  "u": "https://hgp.gupy.io/job/eyJqb2JJZCI6MTI4NTUwNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gerente de Plantão Trainee (Várzea - Teresópolis/RJ)",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Teresópolis - RJ",
+  "ing": null,
+  "x": "Vaga efetiva de gerente de plantão trainee no McDonald's (Arcos Dorados), presencial.",
+  "u": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI4NTIxNzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gerente de Plantão Trainee (Várzea - Teresópolis/RJ)",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Teresópolis - RJ",
+  "ing": null,
+  "x": "Vaga efetiva de gerente de plantão trainee no McDonald's (Arcos Dorados), presencial.",
+  "u": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI4NTIxNzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gerente de Plantão Trainee (Várzea - Teresópolis/RJ)",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Teresópolis - RJ",
+  "ing": null,
+  "x": "Vaga efetiva de gerente de plantão trainee no McDonald's (Arcos Dorados), presencial.",
+  "u": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI4NTIxNjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "FARM | Gerente Trainee | Rio Design Barra",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Rio de Janeiro - RJ",
+  "ing": null,
+  "x": "Vaga efetiva de gerente trainee na FARM, presencial.",
+  "u": "https://farm.gupy.io/job/eyJqb2JJZCI6MTI4Mzc1MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gerente de Plantão Trainee (Guaianazes - São Paulo/SP)",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "São Paulo - SP",
+  "ing": null,
+  "x": "Vaga efetiva de gerente de plantão trainee no McDonald's (Arcos Dorados), presencial.",
+  "u": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI4NTE2MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Gerente de Plantão Trainee (Rebouças - Curitiba/PR)",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": "Curitiba - PR",
+  "ing": null,
+  "x": "Vaga efetiva de gerente de plantão trainee no McDonald's (Arcos Dorados), presencial.",
+  "u": "https://restaurantemc.gupy.io/job/eyJqb2JJZCI6MTI4NTEyNjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+  "s": "Portal Gupy",
+  "af": [
+   "pcd"
+  ],
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa Trainee",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa de trainee divulgado no portal Gupy; detalhes não constam no texto.",
+  "u": "https://softplantrainee.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9",
+  "s": "Portal Gupy",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa Trainee #GrupoSolví",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa de trainee do Grupo Solví; detalhes não constam no texto.",
+  "u": "https://programatraineesolvi.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9",
+  "s": "Portal Gupy",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa de Trainee SLC Agrícola",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa de trainee da SLC Agrícola; detalhes não constam no texto.",
+  "u": "https://traineeslcagricola.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9",
+  "s": "Portal Gupy",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Programa Trainee Gerente de Plantão – McDonald's",
+  "k": "emprego",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Programa de trainee para gerente de plantão do McDonald's; detalhes não constam no texto.",
+  "u": "https://mcdonaldstraineegp.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9",
+  "s": "Portal Gupy",
+  "af": null,
+  "coletado_em": "2026-11-11"
+ },
+ {
+  "t": "Instituto Infnet - Venha ser estagiário ou trainee!",
+  "k": "estagio",
+  "n": [
+   "grad",
+   "pos"
+  ],
+  "fim": null,
+  "loc": null,
+  "ing": null,
+  "x": "Oportunidades de estágio e trainee no Instituto Infnet; detalhes não constam no texto.",
+  "u": "https://estagio-e-trainee-infnet.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9",
+  "s": "Portal Gupy",
+  "af": null,
+  "coletado_em": "2026-11-11"
  }
 ]
