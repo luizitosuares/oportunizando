@@ -28,6 +28,7 @@ from playwright.sync_api import sync_playwright
 UA = "RotaOportunidadesBot/0.1 (projeto de extensao; contato: SEU_EMAIL_AQUI)"
 MODELO = os.environ.get("MODELO", "claude-haiku-5-5")
 PAUSA_SEGUNDOS = 5  # educação com os servidores: uma página a cada 5 s
+TIPOS = {"bolsa", "estagio", "aprendiz", "tecnico", "acesso", "pos", "emprego", "empreender", "curso"}
 os.makedirs("saida", exist_ok=True)
 os.makedirs("docs", exist_ok=True)
 
@@ -143,9 +144,18 @@ def main():
         hoje = datetime.date.today().isoformat()
         vistos, finais = set(), []
         for it in itens:
-            chave = (it.get("u"), it.get("t"))
-            if not it.get("t") or not it.get("u") or not isinstance(it.get("n"), list) or chave in vistos:
-                continue  # item incompleto ou repetido
+            if not it.get("t") or not str(it.get("u", "")).startswith("http") or not isinstance(it.get("n"), list):
+                continue  # item incompleto
+            if it.get("k") not in TIPOS:
+                continue  # tipo inválido
+            it["n"] = [x for x in it["n"] if x in ("em", "grad", "pos")]
+            if not it["n"]:
+                continue  # sem etapa válida
+            if isinstance(it.get("af"), list):
+                it["af"] = [x for x in it["af"] if x in ("publica", "negra", "baixa", "pcd", "mulher")]
+            chave = (it.get("u"), re.sub(r"\W+", "", str(it["t"]).lower()))
+            if chave in vistos:
+                continue  # repetido
             if it.get("fim") and it["fim"] < hoje:
                 continue  # prazo já passou
             vistos.add(chave)
